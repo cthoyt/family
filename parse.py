@@ -54,13 +54,16 @@ def df_to_graph(df: pd.DataFrame) -> nx.DiGraph:
         idx = str(int(idx))
         if pd.notna(father):
             father = str(int(father))
-            graph.add_edge(idx, father, type='father', id=f'{idx}_{father}')
+            if father in graph:
+                graph.add_edge(idx, father, type='father', id=f'{idx}_{father}')
         if pd.notna(mother):
             mother = str(int(mother))
-            graph.add_edge(idx, mother, type='mother', id=f'{idx}_{mother}')
+            if mother in graph:
+                graph.add_edge(idx, mother, type='mother', id=f'{idx}_{mother}')
         if pd.notna(spouse):
             spouse = str(int(spouse))
-            graph.add_edge(idx, spouse, type='spouse', id=f'{idx}_{spouse}')
+            if spouse in graph:
+                graph.add_edge(idx, spouse, type='spouse', id=f'{idx}_{spouse}')
 
     # add levels from chuck (# 1)
     # levels = nx.single_source_shortest_path_length(graph, "1")
