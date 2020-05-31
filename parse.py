@@ -32,23 +32,17 @@ def df_to_graph(df: pd.DataFrame) -> nx.DiGraph:
     # Burial Site	Education	Military Service	Occupation
     # Christening	Notes	Link1	Link2
 
-    columns = [
-        'Name',
-        'Birthday',
-        'Deathday',
-        'Wedding',
-        'Siblings',
-    ]
-    for idx, row in df[columns].iterrows():
+    for idx, row in df.iterrows():
         idx = str(idx)
-        label = row.pop('Name')
+        siblings = row.pop('Siblings')
         d = {
             k: v
             for k, v in row.items()
-            if pd.notna(v)
+            if pd.notna(v) and k not in {'Father', 'Mother', 'Spouse', 'Siblings'}
         }
-        # add data later
-        graph.add_node(idx, label=label, id=idx)
+        if pd.notna(siblings):
+            d['Siblings'] = int(siblings)
+        graph.add_node(idx, **d)
 
     for idx, father, mother, spouse in df[['Father', 'Mother', 'Spouse']].itertuples(index=True):
         idx = str(int(idx))
@@ -82,7 +76,7 @@ def main():
     g = df_to_graph(df)
 
     with open(CYTOSCAPE, 'w') as file:
-        json.dump(cytoscape_data(g), file, indent=2)
+        json.dump(cytoscape_data(g, attrs={'name': 'Name'}), file, indent=2)
 
 
 if __name__ == '__main__':

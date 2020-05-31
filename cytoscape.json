@@ -6,1290 +6,1642 @@
     "nodes": [
       {
         "data": {
-          "label": "Charles Lindsay Hoyt",
+          "Name": "Charles Lindsay Hoyt",
+          "Birthday": "5/7/1925",
+          "Deathday": "8/1/2016",
+          "Wedding": "11/26/1955",
+          "Residences": "Haverill, Ma; Governor's Island, NH",
+          "Burial Site": "Maplewood Parish Cemetery",
+          "Education": "Manlius School, Boston University",
+          "Occupation": "tanner",
+          "Siblings": 0,
           "id": "1",
           "value": "1",
-          "name": "1"
+          "name": "Charles Lindsay Hoyt"
         }
       },
       {
         "data": {
-          "label": "Elizabeth Anne Tapley",
+          "Name": "Elizabeth Anne Tapley",
+          "Birthday": "10/18/1932",
+          "Residences": "Haverill, Ma; Governor's Island, NH",
+          "Burial Site": "Linwood Cemetery",
+          "Education": "University of Colorado",
+          "Siblings": 1,
           "id": "2",
           "value": "2",
-          "name": "2"
+          "name": "Elizabeth Anne Tapley"
         }
       },
       {
         "data": {
-          "label": "Aaron Hoyt",
+          "Name": "Aaron Hoyt",
+          "Birthday": "1/18/1895",
+          "Deathday": "4/25/1965",
+          "Wedding": "1923?",
+          "Residences": "1005 Main St., Haverill, MA",
+          "Burial Site": "Maplewood Parish Cemetery",
+          "Occupation": "tanner",
+          "Notes": "drafted to WWI",
+          "Link1": "https://familysearch.org/ark:/61903/1:1:KZN1-PZC",
+          "Siblings": 0,
           "id": "3",
           "value": "3",
-          "name": "3"
+          "name": "Aaron Hoyt"
         }
       },
       {
         "data": {
-          "label": "Eleanor Marianne Lindsay",
+          "Name": "Eleanor Marianne Lindsay",
+          "Birthday": "4/25/1895",
+          "Deathday": "2/22/1963",
+          "Residences": "Douglastown, Quebec",
+          "Burial Site": "Maplewood Parish Cemetery",
+          "Christening": "5/13/1888 Methodist Church, Gaspe",
+          "Link1": "http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&db=gaspe&id=I16991",
           "id": "4",
           "value": "4",
-          "name": "4"
+          "name": "Eleanor Marianne Lindsay"
         }
       },
       {
         "data": {
-          "label": "George Manning Tapley",
+          "Name": "George Manning Tapley",
+          "Birthday": "7/30/1902",
+          "Deathday": "4/16/1987",
+          "Wedding": "5/19/1928",
+          "Burial Site": "Linwood Cemetery",
+          "Education": "MIT",
+          "Occupation": "civil engineer",
           "id": "5",
           "value": "5",
-          "name": "5"
+          "name": "George Manning Tapley"
         }
       },
       {
         "data": {
-          "label": "Anne Carson Halliday",
+          "Name": "Anne Carson Halliday",
+          "Birthday": "4/13/1902",
+          "Deathday": "4/25/1990",
+          "Residences": "Pennsylvania",
+          "Burial Site": "Linwood Cemetery",
+          "Notes": "had a sibling who died young",
+          "Siblings": 1,
           "id": "6",
           "value": "6",
-          "name": "6"
+          "name": "Anne Carson Halliday"
         }
       },
       {
         "data": {
-          "label": "Charles Noyes Hoyt",
+          "Name": "Charles Noyes Hoyt",
+          "Birthday": "2/24/1849",
+          "Deathday": "8/10/1922",
+          "Residences": "1005 Main St., Haverill, MA",
+          "Burial Site": "Maplewood Parish Cemetery",
+          "Occupation": "real estate, wood lots, bricks",
           "id": "7",
           "value": "7",
-          "name": "7"
+          "name": "Charles Noyes Hoyt"
         }
       },
       {
         "data": {
-          "label": "Idabel Whittaker King",
+          "Name": "Idabel Whittaker King",
+          "Birthday": "10/27/1868",
+          "Deathday": "6/14/1902",
+          "Burial Site": "Maplewood Parish Cemetery",
+          "Notes": "died of tuberculosis of kidney",
+          "Link1": "https://familysearch.org/ark:/61903/1:1:NWXJ-D78",
           "id": "8",
           "value": "8",
-          "name": "8"
+          "name": "Idabel Whittaker King"
         }
       },
       {
         "data": {
-          "label": "Robert Charles Lindsay",
+          "Name": "Robert Charles Lindsay",
+          "Birthday": "10/13/1857",
+          "Deathday": "2/9/1910",
+          "Residences": "Douglastown, Quebec",
+          "Burial Site": "United Church Cemetery, Gaspe Basin",
+          "Link1": "http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&db=gaspe&id=I15743",
           "id": "9",
           "value": "9",
-          "name": "9"
+          "name": "Robert Charles Lindsay"
         }
       },
       {
         "data": {
-          "label": "Elizabeth Annie Lowndes",
+          "Name": "Elizabeth Annie Lowndes",
+          "Birthday": "1857",
+          "Deathday": "10/6/1941",
+          "Residences": "Douglastown, Quebec",
+          "Burial Site": "St. Paul's Cemetery, Gaspe Basin",
+          "Link1": "http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&db=gaspe&id=I15744",
           "id": "10",
           "value": "10",
-          "name": "10"
+          "name": "Elizabeth Annie Lowndes"
         }
       },
       {
         "data": {
-          "label": "Irwin Walcott Tapley",
+          "Name": "Irwin Walcott Tapley",
+          "Birthday": "9/13/1859",
+          "Deathday": "8/30/1934",
+          "Wedding": "6/20/1894",
           "id": "11",
           "value": "11",
-          "name": "11"
+          "name": "Irwin Walcott Tapley"
         }
       },
       {
         "data": {
-          "label": "Alice May Roberts",
+          "Name": "Alice May Roberts",
+          "Birthday": "12/6/1863",
+          "Deathday": "3/29/1944",
+          "Residences": "Amherst, MA",
           "id": "12",
           "value": "12",
-          "name": "12"
+          "name": "Alice May Roberts"
         }
       },
       {
         "data": {
-          "label": "William Halliday",
+          "Name": "William Halliday",
+          "Birthday": "1871(2)",
+          "Deathday": "before 1910",
+          "Wedding": "11/29/1901",
+          "Birthplace": "Ireland",
+          "Immigration": "1890 from Ireland",
+          "Residences": "Pittsburgh, Allegheny, PA",
+          "Occupation": "machinist (steel worker)",
+          "Link1": "https://familysearch.org/ark:/61903/1:1:VFW5-C53",
           "id": "13",
           "value": "13",
-          "name": "13"
+          "name": "William Halliday"
         }
       },
       {
         "data": {
-          "label": "Elizabeth Carson",
+          "Name": "Elizabeth Carson",
+          "Birthday": "1881",
+          "Birthplace": "Pennsylvania",
+          "Residences": "Pittsburgh, Allegheny, PA",
+          "Occupation": "cook/clerk for a cement company",
           "id": "14",
           "value": "14",
-          "name": "14"
+          "name": "Elizabeth Carson"
         }
       },
       {
         "data": {
-          "label": "Aaron Hoyt",
+          "Name": "Aaron Hoyt",
+          "Birthday": "3/9/1812",
+          "Deathday": "8/25/1876",
+          "Wedding": "4/9/1842",
+          "Residences": "Haverill, Ma.",
+          "Burial Site": "Maplewood Parish Cemetery",
+          "Occupation": "butcher & farmer",
           "id": "15",
           "value": "15",
-          "name": "15"
+          "name": "Aaron Hoyt"
         }
       },
       {
         "data": {
-          "label": "Sarah M. Noyes",
+          "Name": "Sarah M. Noyes",
+          "Birthday": "1/22/1815",
+          "Deathday": "7/29/1896",
+          "Burial Site": "Maplewood Parish Cemetery",
           "id": "16",
           "value": "16",
-          "name": "16"
+          "name": "Sarah M. Noyes"
         }
       },
       {
         "data": {
-          "label": "Joseph S. King",
+          "Name": "Joseph S. King",
+          "Birthday": "12/15/1836",
+          "Deathday": "12/15/1927",
+          "Birthplace": "Canada",
+          "Residences": "Haverhill",
+          "Burial Site": "Maplewood Parish Cemetery",
           "id": "17",
           "value": "17",
-          "name": "17"
+          "name": "Joseph S. King"
         }
       },
       {
         "data": {
-          "label": "Louisa Whittaker",
+          "Name": "Louisa Whittaker",
+          "Birthday": "11/21/1838",
+          "Deathday": "4/3/1915",
+          "Residences": "Haverhill",
+          "Burial Site": "Maplewood Parish Cemetery",
+          "Link1": "http://ma-vitalrecords.org/MA/Essex/Haverhill/aBirthsW.shtml",
+          "Link2": "https://familysearch.org/ark:/61903/1:1:MD9L-2G6",
           "id": "18",
           "value": "18",
-          "name": "18"
+          "name": "Louisa Whittaker"
         }
       },
       {
         "data": {
-          "label": "William Lindsay",
+          "Name": "William Lindsay",
+          "Residences": "Gaspe",
+          "Burial Site": "St. John's Cemetery",
           "id": "19",
           "value": "19",
-          "name": "19"
+          "name": "William Lindsay"
         }
       },
       {
         "data": {
-          "label": "Jane Innis",
+          "Name": "Jane Innis",
+          "Residences": "Gaspe",
+          "Burial Site": "St. John's Cemetery",
           "id": "20",
           "value": "20",
-          "name": "20"
+          "name": "Jane Innis"
         }
       },
       {
         "data": {
-          "label": "James John Lowndes (probs)",
+          "Name": "James John Lowndes (probs)",
+          "Residences": "England",
+          "Link1": "https://familysearch.org/ark:/61903/1:1:NLYY-L8P",
+          "Link2": "https://familysearch.org/ark:/61903/1:1:NF17-SYQ",
           "id": "21",
           "value": "21",
-          "name": "21"
+          "name": "James John Lowndes (probs)"
         }
       },
       {
         "data": {
-          "label": "Mariane Skitt (probs)",
+          "Name": "Mariane Skitt (probs)",
+          "Residences": "England",
+          "Link1": "https://familysearch.org/ark:/61903/1:1:F1SH-82C",
           "id": "22",
           "value": "22",
-          "name": "22"
+          "name": "Mariane Skitt (probs)"
         }
       },
       {
         "data": {
-          "label": "George Tapley",
+          "Name": "George Tapley",
+          "Birthday": "2/5/1820",
+          "Wedding": "7/31/1841",
           "id": "23",
           "value": "23",
-          "name": "23"
+          "name": "George Tapley"
         }
       },
       {
         "data": {
-          "label": "Hannah Elizabeth Wolcott",
+          "Name": "Hannah Elizabeth Wolcott",
+          "Deathday": "7/14/1895",
           "id": "24",
           "value": "24",
-          "name": "24"
+          "name": "Hannah Elizabeth Wolcott"
         }
       },
       {
         "data": {
-          "label": "Manning Roberts",
+          "Name": "Manning Roberts",
+          "Birthday": "8/6/1837",
+          "Deathday": "7/6/1904",
+          "Residences": "Amherst, Ma",
+          "Link1": "http://records.ancestry.com/manning_roberts_records.ashx?pid=135023032",
           "id": "25",
           "value": "25",
-          "name": "25"
+          "name": "Manning Roberts"
         }
       },
       {
         "data": {
-          "label": "Mary Eloisa/Elvira Smith",
+          "Name": "Mary Eloisa/Elvira Smith",
+          "Birthday": "12/16/1839",
+          "Deathday": "12/20/1876",
+          "Residences": " b. North Amherst, MA d. Springfield, MA",
+          "Link1": "http://records.ancestry.com/mary_eloisa_smith_records.ashx?pid=145083542",
           "id": "26",
           "value": "26",
-          "name": "26"
+          "name": "Mary Eloisa/Elvira Smith"
         }
       },
       {
         "data": {
-          "label": "Alex Halliday",
+          "Name": "Alex Halliday",
+          "Birthplace": "Ireland",
+          "Residences": "Ireland/PA",
           "id": "27",
           "value": "27",
-          "name": "27"
+          "name": "Alex Halliday"
         }
       },
       {
         "data": {
-          "label": "Ann ",
+          "Name": "Ann ",
+          "Birthplace": "Ireland",
+          "Residences": "Ireland/PA",
           "id": "28",
           "value": "28",
-          "name": "28"
+          "name": "Ann "
         }
       },
       {
         "data": {
-          "label": "John Carson",
+          "Name": "John Carson",
+          "Birthplace": "Ireland",
+          "Residences": "Ireland/PA",
+          "Link2": "https://familysearch.org/ark:/61903/1:1:XT6C-YG7",
           "id": "29",
           "value": "29",
-          "name": "29"
+          "name": "John Carson"
         }
       },
       {
         "data": {
-          "label": "Elizabeth Blackie (?)",
+          "Name": "Elizabeth Blackie (?)",
+          "Birthplace": "Ireland",
+          "Residences": "Ireland/PA",
+          "Link2": "https://familysearch.org/ark:/61903/1:1:XT6C-YG7",
           "id": "30",
           "value": "30",
-          "name": "30"
+          "name": "Elizabeth Blackie (?)"
         }
       },
       {
         "data": {
-          "label": "Humphrey Hoyt",
+          "Name": "Humphrey Hoyt",
+          "Birthday": "9/10/1750",
+          "Deathday": "2/26/1812 (alt 23)",
+          "Wedding": "1/27/1791",
           "id": "31",
           "value": "31",
-          "name": "31"
+          "name": "Humphrey Hoyt"
         }
       },
       {
         "data": {
-          "label": "Susanna Bradley",
+          "Name": "Susanna Bradley",
+          "Deathday": "7/19/1833",
           "id": "32",
           "value": "32",
-          "name": "32"
+          "name": "Susanna Bradley"
         }
       },
       {
         "data": {
-          "label": "Samuel Noyes",
+          "Name": "Samuel Noyes",
+          "Residences": "Plaistow, Ma",
+          "Notes": "Haverill was divided; one part called Plaistow",
           "id": "33",
           "value": "33",
-          "name": "33"
+          "name": "Samuel Noyes"
         }
       },
       {
         "data": {
-          "label": "Hannah P. Dow",
+          "Name": "Hannah P. Dow",
           "id": "34",
           "value": "34",
-          "name": "34"
+          "name": "Hannah P. Dow"
         }
       },
       {
         "data": {
-          "label": "King",
+          "Name": "King",
           "id": "35",
           "value": "35",
-          "name": "35"
+          "name": "King"
         }
       },
       {
         "data": {
-          "label": "John Whittaker",
+          "Name": "John Whittaker",
+          "Birthday": "1804",
+          "Occupation": "farmer",
           "id": "37",
           "value": "37",
-          "name": "37"
+          "name": "John Whittaker"
         }
       },
       {
         "data": {
-          "label": "Mary G ",
+          "Name": "Mary G ",
+          "Birthday": "1818",
+          "Occupation": "keeps house",
           "id": "38",
           "value": "38",
-          "name": "38"
+          "name": "Mary G "
         }
       },
       {
         "data": {
-          "label": "Lindsay",
+          "Name": "Lindsay",
           "id": "39",
           "value": "39",
-          "name": "39"
+          "name": "Lindsay"
         }
       },
       {
         "data": {
-          "label": "Lowndes",
+          "Name": "Lowndes",
           "id": "43",
           "value": "43",
-          "name": "43"
+          "name": "Lowndes"
         }
       },
       {
         "data": {
-          "label": "Daniel Tapley",
+          "Name": "Daniel Tapley",
           "id": "47",
           "value": "47",
-          "name": "47"
+          "name": "Daniel Tapley"
         }
       },
       {
         "data": {
-          "label": "Sally Nourse",
+          "Name": "Sally Nourse",
           "id": "48",
           "value": "48",
-          "name": "48"
+          "name": "Sally Nourse"
         }
       },
       {
         "data": {
-          "label": "Jonathon Wolcott",
+          "Name": "Jonathon Wolcott",
           "id": "49",
           "value": "49",
-          "name": "49"
+          "name": "Jonathon Wolcott"
         }
       },
       {
         "data": {
-          "label": "Lydia Jacobs",
+          "Name": "Lydia Jacobs",
           "id": "50",
           "value": "50",
-          "name": "50"
+          "name": "Lydia Jacobs"
         }
       },
       {
         "data": {
-          "label": "Reuben Roberts",
+          "Name": "Reuben Roberts",
+          "Birthday": "1805",
+          "Deathday": "1877",
+          "Link1": "http://records.ancestry.com/reuben_roberts_records.ashx?pid=90945509",
           "id": "51",
           "value": "51",
-          "name": "51"
+          "name": "Reuben Roberts"
         }
       },
       {
         "data": {
-          "label": "Mary Smith",
+          "Name": "Mary Smith",
+          "Deathday": "1/25/1840",
+          "Residences": "Amherst, MA",
+          "Link1": "http://records.ancestry.com/mary_smith_records.ashx?pid=163346942",
           "id": "52",
           "value": "52",
-          "name": "52"
+          "name": "Mary Smith"
         }
       },
       {
         "data": {
-          "label": "Lyman Smith",
+          "Name": "Lyman Smith",
+          "Wedding": "5/25/1825",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg05/fg05_226.htm",
           "id": "53",
           "value": "53",
-          "name": "53"
+          "name": "Lyman Smith"
         }
       },
       {
         "data": {
-          "label": "Electa Dickinson",
+          "Name": "Electa Dickinson",
+          "Birthday": "2/10/1795",
+          "Deathday": "4/25/1859",
+          "Residences": "Amherst, MA",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg05/fg05_226.htm",
           "id": "54",
           "value": "54",
-          "name": "54"
+          "name": "Electa Dickinson"
         }
       },
       {
         "data": {
-          "label": "Halliday",
+          "Name": "Halliday",
           "id": "55",
           "value": "55",
-          "name": "55"
+          "name": "Halliday"
         }
       },
       {
         "data": {
-          "label": "Carson",
+          "Name": "Carson",
           "id": "59",
           "value": "59",
-          "name": "59"
+          "name": "Carson"
         }
       },
       {
         "data": {
-          "label": "John Hoyt",
+          "Name": "John Hoyt",
+          "Birthday": "6/29/1724",
+          "Deathday": "4/30/1812",
+          "Wedding": "7/31/1745",
+          "Residences": "Amesbury, MA",
           "id": "63",
           "value": "63",
-          "name": "63"
+          "name": "John Hoyt"
         }
       },
       {
         "data": {
-          "label": "Abigail Nichols",
+          "Name": "Abigail Nichols",
+          "Birthday": "5/18/1727",
+          "Deathday": "5/18/1821",
+          "Residences": "Amesbury, MA",
           "id": "64",
           "value": "64",
-          "name": "64"
+          "name": "Abigail Nichols"
         }
       },
       {
         "data": {
-          "label": "Ezekiel Dow",
+          "Name": "Ezekiel Dow",
+          "Birthday": "9/23/1747",
+          "Deathday": "4/4/1832",
           "id": "69",
           "value": "69",
-          "name": "69"
+          "name": "Ezekiel Dow"
         }
       },
       {
         "data": {
-          "label": "Sarah Merrill",
+          "Name": "Sarah Merrill",
+          "Birthday": "9/23/1754",
+          "Residences": "Plaistow, Ma",
           "id": "70",
           "value": "70",
-          "name": "70"
+          "name": "Sarah Merrill"
         }
       },
       {
         "data": {
-          "label": "King",
+          "Name": "King",
           "id": "71",
           "value": "71",
-          "name": "71"
+          "name": "King"
         }
       },
       {
         "data": {
-          "label": "Lindsay",
+          "Name": "Lindsay",
           "id": "79",
           "value": "79",
-          "name": "79"
+          "name": "Lindsay"
         }
       },
       {
         "data": {
-          "label": "Lowndes",
+          "Name": "Lowndes",
           "id": "87",
           "value": "87",
-          "name": "87"
+          "name": "Lowndes"
         }
       },
       {
         "data": {
-          "label": "Asa Tapley",
+          "Name": "Asa Tapley",
           "id": "95",
           "value": "95",
-          "name": "95"
+          "name": "Asa Tapley"
         }
       },
       {
         "data": {
-          "label": "Elizabeth Smith",
+          "Name": "Elizabeth Smith",
           "id": "96",
           "value": "96",
-          "name": "96"
+          "name": "Elizabeth Smith"
         }
       },
       {
         "data": {
-          "label": "Rogers Nourse",
+          "Name": "Rogers Nourse",
           "id": "97",
           "value": "97",
-          "name": "97"
+          "name": "Rogers Nourse"
         }
       },
       {
         "data": {
-          "label": "Mary Nourse, nee (?)",
+          "Name": "Mary Nourse, nee (?)",
           "id": "98",
           "value": "98",
-          "name": "98"
+          "name": "Mary Nourse, nee (?)"
         }
       },
       {
         "data": {
-          "label": "Reuben Roberts",
+          "Name": "Reuben Roberts",
+          "Birthday": "12/27/1774",
+          "Residences": "East Hartford, CT",
+          "Link1": "http://records.ancestry.com/reuben_roberts_records.ashx?pid=134965091",
           "id": "103",
           "value": "103",
-          "name": "103"
+          "name": "Reuben Roberts"
         }
       },
       {
         "data": {
-          "label": "Esther Risley",
+          "Name": "Esther Risley",
+          "Link1": "http://records.ancestry.com/esther_risley_records.ashx?pid=121790546",
           "id": "104",
           "value": "104",
-          "name": "104"
+          "name": "Esther Risley"
         }
       },
       {
         "data": {
-          "label": "Rufus Smith",
+          "Name": "Rufus Smith",
+          "Link1": "http://records.ancestry.com/rufus_smith_records.ashx?pid=184988351",
           "id": "105",
           "value": "105",
-          "name": "105"
+          "name": "Rufus Smith"
         }
       },
       {
         "data": {
-          "label": "Achsa Ingram",
+          "Name": "Achsa Ingram",
+          "Link1": "http://records.ancestry.com/achsa_ingram_records.ashx?pid=138420942",
           "id": "106",
           "value": "106",
-          "name": "106"
+          "name": "Achsa Ingram"
         }
       },
       {
         "data": {
-          "label": "Jonathan Smith",
+          "Name": "Jonathan Smith",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg05/fg05_232.htm",
           "id": "107",
           "value": "107",
-          "name": "107"
+          "name": "Jonathan Smith"
         }
       },
       {
         "data": {
-          "label": "Ebenezer Dickinson",
+          "Name": "Ebenezer Dickinson",
+          "Birthday": "2/6/1761",
+          "Deathday": "8/15/1818",
+          "Wedding": "11/7/1782",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg03/fg03_028.htm",
           "id": "109",
           "value": "109",
-          "name": "109"
+          "name": "Ebenezer Dickinson"
         }
       },
       {
         "data": {
-          "label": "Abigail Belding",
+          "Name": "Abigail Belding",
+          "Deathday": "6/25/1839",
+          "Education": "12/5/1762",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg03/fg03_028.htm",
           "id": "110",
           "value": "110",
-          "name": "110"
+          "name": "Abigail Belding"
         }
       },
       {
         "data": {
-          "label": "Halliday",
+          "Name": "Halliday",
           "id": "111",
           "value": "111",
-          "name": "111"
+          "name": "Halliday"
         }
       },
       {
         "data": {
-          "label": "Carson",
+          "Name": "Carson",
           "id": "119",
           "value": "119",
-          "name": "119"
+          "name": "Carson"
         }
       },
       {
         "data": {
-          "label": "John Hoyt",
+          "Name": "John Hoyt",
           "id": "127",
           "value": "127",
-          "name": "127"
+          "name": "John Hoyt"
         }
       },
       {
         "data": {
-          "label": "Sarah Barnard",
+          "Name": "Sarah Barnard",
           "id": "128",
           "value": "128",
-          "name": "128"
+          "name": "Sarah Barnard"
         }
       },
       {
         "data": {
-          "label": "John Nichols",
+          "Name": "John Nichols",
+          "Birthday": "1676",
+          "Wedding": "1/1/1701",
           "id": "129",
           "value": "129",
-          "name": "129"
+          "name": "John Nichols"
         }
       },
       {
         "data": {
-          "label": "Abigail Sargent",
+          "Name": "Abigail Sargent",
           "id": "130",
           "value": "130",
-          "name": "130"
+          "name": "Abigail Sargent"
         }
       },
       {
         "data": {
-          "label": "Timothy Dow",
+          "Name": "Timothy Dow",
+          "Birthday": "5/10/1700",
+          "Deathday": "7/22/1777",
+          "Residences": "Sweet Hill, Plaistow, Ma",
           "id": "139",
           "value": "139",
-          "name": "139"
+          "name": "Timothy Dow"
         }
       },
       {
         "data": {
-          "label": "Judith Worthen",
+          "Name": "Judith Worthen",
           "id": "140",
           "value": "140",
-          "name": "140"
+          "name": "Judith Worthen"
         }
       },
       {
         "data": {
-          "label": "Steven Merrill",
+          "Name": "Steven Merrill",
+          "Birthday": "6/10/1731",
+          "Deathday": "8/4/1801",
+          "Link1": "http://www.geni.com/people/Steven-Merrill/6000000005821149001?through=6000000005822641002",
           "id": "141",
           "value": "141",
-          "name": "141"
+          "name": "Steven Merrill"
         }
       },
       {
         "data": {
-          "label": "Sarah Chase",
+          "Name": "Sarah Chase",
+          "Birthday": "6/19/1730",
+          "Deathday": "4/30/1794",
+          "Link1": "http://www.geni.com/people/Sarah-Chase/6000000000664809316?through=6000000005822641002",
           "id": "142",
           "value": "142",
-          "name": "142"
+          "name": "Sarah Chase"
         }
       },
       {
         "data": {
-          "label": "Gilbert (Gilbord) Tapley",
+          "Name": "Gilbert (Gilbord) Tapley",
           "id": "191",
           "value": "191",
-          "name": "191"
+          "name": "Gilbert (Gilbord) Tapley"
         }
       },
       {
         "data": {
-          "label": "Phebe Putnam",
+          "Name": "Phebe Putnam",
           "id": "192",
           "value": "192",
-          "name": "192"
+          "name": "Phebe Putnam"
         }
       },
       {
         "data": {
-          "label": "Nathaniel Smith",
+          "Name": "Nathaniel Smith",
           "id": "193",
           "value": "193",
-          "name": "193"
+          "name": "Nathaniel Smith"
         }
       },
       {
         "data": {
-          "label": "Mary Flint",
+          "Name": "Mary Flint",
           "id": "194",
           "value": "194",
-          "name": "194"
+          "name": "Mary Flint"
         }
       },
       {
         "data": {
-          "label": "Joseph Roberts",
+          "Name": "Joseph Roberts",
+          "Birthday": "1726",
+          "Deathday": "1804",
+          "Link1": "http://records.ancestry.com/joseph_roberts_records.ashx?pid=135263771",
           "id": "207",
           "value": "207",
-          "name": "207"
+          "name": "Joseph Roberts"
         }
       },
       {
         "data": {
-          "label": "Thankful Forbes",
+          "Name": "Thankful Forbes",
+          "Deathday": "11/20/1786",
+          "Link1": "http://records.ancestry.com/thankful_forbes_records.ashx?pid=129161483",
           "id": "208",
           "value": "208",
-          "name": "208"
+          "name": "Thankful Forbes"
         }
       },
       {
         "data": {
-          "label": "Ebenezer Dickinson",
+          "Name": "Ebenezer Dickinson",
+          "Deathday": "9/12/1793",
+          "Residences": "Amherst, MA",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg04/fg04_276.htm",
           "id": "219",
           "value": "219",
-          "name": "219"
+          "name": "Ebenezer Dickinson"
         }
       },
       {
         "data": {
-          "label": "Chloe Holton",
+          "Name": "Chloe Holton",
+          "Deathday": "2/18/1826",
+          "Residences": "Amherst, MA",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg04/fg04_276.htm",
           "id": "220",
           "value": "220",
-          "name": "220"
+          "name": "Chloe Holton"
         }
       },
       {
         "data": {
-          "label": "Dea. Hezekiah Belding",
+          "Name": "Dea. Hezekiah Belding",
+          "Birthday": "7/2/1728",
+          "Deathday": "6/22/1813",
+          "Residences": "Amherst, MA",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg04/fg04_442.htm",
           "id": "221",
           "value": "221",
-          "name": "221"
+          "name": "Dea. Hezekiah Belding"
         }
       },
       {
         "data": {
-          "label": "Abigail Nash",
+          "Name": "Abigail Nash",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg04/fg04_442.htm",
           "id": "222",
           "value": "222",
-          "name": "222"
+          "name": "Abigail Nash"
         }
       },
       {
         "data": {
-          "label": "Halliday",
+          "Name": "Halliday",
           "id": "223",
           "value": "223",
-          "name": "223"
+          "name": "Halliday"
         }
       },
       {
         "data": {
-          "label": "Thomas Hoyt",
+          "Name": "Thomas Hoyt",
           "id": "255",
           "value": "255",
-          "name": "255"
+          "name": "Thomas Hoyt"
         }
       },
       {
         "data": {
-          "label": "Sarah Barnard",
+          "Name": "Sarah Barnard",
           "id": "256",
           "value": "256",
-          "name": "256"
+          "name": "Sarah Barnard"
         }
       },
       {
         "data": {
-          "label": "Samuel Dow",
+          "Name": "Samuel Dow",
+          "Birthday": "1/22/1666",
+          "Wedding": "5/5/1691",
           "id": "279",
           "value": "279",
-          "name": "279"
+          "name": "Samuel Dow"
         }
       },
       {
         "data": {
-          "label": "Ruth Johnson",
+          "Name": "Ruth Johnson",
           "id": "280",
           "value": "280",
-          "name": "280"
+          "name": "Ruth Johnson"
         }
       },
       {
         "data": {
-          "label": "Deacon Abel Merrill III",
+          "Name": "Deacon Abel Merrill III",
+          "Birthday": "3/20/1697",
+          "Deathday": "12/25/1783",
           "id": "283",
           "value": "283",
-          "name": "283"
+          "name": "Deacon Abel Merrill III"
         }
       },
       {
         "data": {
-          "label": "Ruth Kelly",
+          "Name": "Ruth Kelly",
+          "Birthday": "3/15/1704",
+          "Deathday": "4/16/1781",
           "id": "284",
           "value": "284",
-          "name": "284"
+          "name": "Ruth Kelly"
         }
       },
       {
         "data": {
-          "label": "Joseph Tapley",
+          "Name": "Joseph Tapley",
           "id": "383",
           "value": "383",
-          "name": "383"
+          "name": "Joseph Tapley"
         }
       },
       {
         "data": {
-          "label": "Margaret Masury",
+          "Name": "Margaret Masury",
+          "Notes": "Salem, MA",
           "id": "384",
           "value": "384",
-          "name": "384"
+          "name": "Margaret Masury"
         }
       },
       {
         "data": {
-          "label": "John Putnam",
+          "Name": "John Putnam",
           "id": "385",
           "value": "385",
-          "name": "385"
+          "name": "John Putnam"
         }
       },
       {
         "data": {
-          "label": "Lydia Porter",
+          "Name": "Lydia Porter",
           "id": "386",
           "value": "386",
-          "name": "386"
+          "name": "Lydia Porter"
         }
       },
       {
         "data": {
-          "label": "Joseph Roberts",
+          "Name": "Joseph Roberts",
+          "Birthday": "8/1/1700",
+          "Deathday": "1774",
+          "Link1": "http://records.ancestry.com/joseph_roberts_records.ashx?pid=1898660",
           "id": "415",
           "value": "415",
-          "name": "415"
+          "name": "Joseph Roberts"
         }
       },
       {
         "data": {
-          "label": "Mabel Keeney",
+          "Name": "Mabel Keeney",
+          "Birthday": "1704",
+          "Deathday": "6/29/1774",
+          "Residences": "East Hartford, CT",
+          "Link1": "http://records.ancestry.com/mabel_keeney_records.ashx?pid=36848803",
           "id": "416",
           "value": "416",
-          "name": "416"
+          "name": "Mabel Keeney"
         }
       },
       {
         "data": {
-          "label": "David Forbes",
+          "Name": "David Forbes",
+          "Link1": "http://records.ancestry.com/david_forbes_records.ashx?pid=191486975",
           "id": "417",
           "value": "417",
-          "name": "417"
+          "name": "David Forbes"
         }
       },
       {
         "data": {
-          "label": "Sarah Treat",
+          "Name": "Sarah Treat",
+          "Link1": "http://records.ancestry.com/sarah_treat_records.ashx?pid=164926107",
           "id": "418",
           "value": "418",
-          "name": "418"
+          "name": "Sarah Treat"
         }
       },
       {
         "data": {
-          "label": "Dea Ebenezer Dickinson",
+          "Name": "Dea Ebenezer Dickinson",
+          "Birthday": "9/17/1696",
+          "Deathday": "1780",
+          "Wedding": "5/26/1720",
+          "Residences": "Amherst,MA",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg02/fg02_150.htm",
           "id": "439",
           "value": "439",
-          "name": "439"
+          "name": "Dea Ebenezer Dickinson"
         }
       },
       {
         "data": {
-          "label": "Sarah Kellogg",
+          "Name": "Sarah Kellogg",
+          "Birthday": "3/12/1701",
+          "Deathday": "3/22/1743",
+          "Residences": "Amherst,MA",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg02/fg02_150.htm",
           "id": "440",
           "value": "440",
-          "name": "440"
+          "name": "Sarah Kellogg"
         }
       },
       {
         "data": {
-          "label": "Holton",
+          "Name": "Holton",
           "id": "441",
           "value": "441",
-          "name": "441"
+          "name": "Holton"
         }
       },
       {
         "data": {
-          "label": "Samuel Belding",
+          "Name": "Samuel Belding",
+          "Birthday": "10/23/1692",
+          "Deathday": "10/5/1732",
+          "Wedding": "1717",
+          "Residences": "Hat.",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg01/fg01_481.htm",
           "id": "443",
           "value": "443",
-          "name": "443"
+          "name": "Samuel Belding"
         }
       },
       {
         "data": {
-          "label": "Elizabeth Dickinson",
+          "Name": "Elizabeth Dickinson",
+          "Birthday": "3/9/1693",
+          "Residences": "Hat.",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg01/fg01_481.htm",
           "id": "444",
           "value": "444",
-          "name": "444"
+          "name": "Elizabeth Dickinson"
         }
       },
       {
         "data": {
-          "label": "John Nash",
+          "Name": "John Nash",
+          "Birthday": "10/28/1686",
+          "Deathday": "4/7/1764",
+          "Wedding": "12/29/1715",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg04/fg04_444.htm",
           "id": "445",
           "value": "445",
-          "name": "445"
+          "name": "John Nash"
         }
       },
       {
         "data": {
-          "label": "Abilene Field",
+          "Name": "Abilene Field",
+          "Deathday": "7/15/1764",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg04/fg04_444.htm",
           "id": "446",
           "value": "446",
-          "name": "446"
+          "name": "Abilene Field"
         }
       },
       {
         "data": {
-          "label": "Halliday",
+          "Name": "Halliday",
           "id": "447",
           "value": "447",
-          "name": "447"
+          "name": "Halliday"
         }
       },
       {
         "data": {
-          "label": "Thomas Hoyt",
+          "Name": "Thomas Hoyt",
           "id": "511",
           "value": "511",
-          "name": "511"
+          "name": "Thomas Hoyt"
         }
       },
       {
         "data": {
-          "label": "Mary Brown",
+          "Name": "Mary Brown",
           "id": "512",
           "value": "512",
-          "name": "512"
+          "name": "Mary Brown"
         }
       },
       {
         "data": {
-          "label": "Stephen Dow",
+          "Name": "Stephen Dow",
+          "Birthday": "3/29/1642",
+          "Deathday": "7/13/1717",
+          "Residences": "b. Newbury, Ma; d. Haverhill, Ma",
           "id": "559",
           "value": "559",
-          "name": "559"
+          "name": "Stephen Dow"
         }
       },
       {
         "data": {
-          "label": "Ann Storie",
+          "Name": "Ann Storie",
           "id": "560",
           "value": "560",
-          "name": "560"
+          "name": "Ann Storie"
         }
       },
       {
         "data": {
-          "label": "Deacon Abel Merrill Jr.",
+          "Name": "Deacon Abel Merrill Jr.",
+          "Birthday": "12/28/1671",
+          "Deathday": "2/6/1719",
           "id": "568",
           "value": "568",
-          "name": "568"
+          "name": "Deacon Abel Merrill Jr."
         }
       },
       {
         "data": {
-          "label": "Abigail Stevens",
+          "Name": "Abigail Stevens",
+          "Birthday": "1/22/1673",
+          "Deathday": "5/24/1717",
           "id": "569",
           "value": "569",
-          "name": "569"
+          "name": "Abigail Stevens"
         }
       },
       {
         "data": {
-          "label": "Gilbert Tapley",
+          "Name": "Gilbert Tapley",
           "id": "767",
           "value": "767",
-          "name": "767"
+          "name": "Gilbert Tapley"
         }
       },
       {
         "data": {
-          "label": "Lydia Small",
+          "Name": "Lydia Small",
           "id": "768",
           "value": "768",
-          "name": "768"
+          "name": "Lydia Small"
         }
       },
       {
         "data": {
-          "label": "William Roberts",
+          "Name": "William Roberts",
+          "Birthday": "1667",
+          "Deathday": "1734",
+          "Residences": "b. England; d. CT",
+          "Link1": "http://records.ancestry.com/william_roberts_records.ashx?pid=1865258",
           "id": "831",
           "value": "831",
-          "name": "831"
+          "name": "William Roberts"
         }
       },
       {
         "data": {
-          "label": "Dorothy Forbes",
+          "Name": "Dorothy Forbes",
+          "Birthday": "1671",
+          "Deathday": "1757",
+          "Residences": "b. Hartford Village, CT; d. Hartford, CT",
+          "Link1": "http://records.ancestry.com/dorothy_forbes_records.ashx?pid=15373400",
           "id": "832",
           "value": "832",
-          "name": "832"
+          "name": "Dorothy Forbes"
         }
       },
       {
         "data": {
-          "label": "Joseph Keeney",
+          "Name": "Joseph Keeney",
+          "Birthday": "1665",
+          "Deathday": "1752",
+          "Residences": "b. Norfolk, England; d. CT",
+          "Link1": "http://records.ancestry.com/joseph_keeney_records.ashx?pid=36822269",
           "id": "833",
           "value": "833",
-          "name": "833"
+          "name": "Joseph Keeney"
         }
       },
       {
         "data": {
-          "label": "Hannah Hills",
+          "Name": "Hannah Hills",
+          "Birthday": "1675",
+          "Deathday": "1749",
+          "Residences": "b. MA, d. CT",
+          "Link1": "http://records.ancestry.com/hannah_hills_records.ashx?pid=21456841",
           "id": "834",
           "value": "834",
-          "name": "834"
+          "name": "Hannah Hills"
         }
       },
       {
         "data": {
-          "label": "Nehemiah Dickinson",
+          "Name": "Nehemiah Dickinson",
+          "Birthday": "1644",
+          "Deathday": "9/9/1732(23)",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg01/fg01_242.htm",
           "id": "879",
           "value": "879",
-          "name": "879"
+          "name": "Nehemiah Dickinson"
         }
       },
       {
         "data": {
-          "label": "Mary (Cowles, probs)",
+          "Name": "Mary (Cowles, probs)",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg01/fg01_242.htm",
           "id": "880",
           "value": "880",
-          "name": "880"
+          "name": "Mary (Cowles, probs)"
         }
       },
       {
         "data": {
-          "label": "Nathaniel Kellogg",
+          "Name": "Nathaniel Kellogg",
+          "Birthday": "10/8/1669",
+          "Deathday": "10/30/1750",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg01/fg01_149.htm",
           "id": "881",
           "value": "881",
-          "name": "881"
+          "name": "Nathaniel Kellogg"
         }
       },
       {
         "data": {
-          "label": "Sarah Boltwood",
+          "Name": "Sarah Boltwood",
+          "Birthday": "10/1/1672",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg01/fg01_149.htm",
           "id": "882",
           "value": "882",
-          "name": "882"
+          "name": "Sarah Boltwood"
         }
       },
       {
         "data": {
-          "label": "Holton",
+          "Name": "Holton",
           "id": "883",
           "value": "883",
-          "name": "883"
+          "name": "Holton"
         }
       },
       {
         "data": {
-          "label": "Stephen Belding",
+          "Name": "Stephen Belding",
+          "Birthday": "12/28/1658",
+          "Deathday": "10/6/1720",
+          "Wedding": "8/16/1682",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg01/fg01_482.htm",
           "id": "887",
           "value": "887",
-          "name": "887"
+          "name": "Stephen Belding"
         }
       },
       {
         "data": {
-          "label": "Mary Welles",
+          "Name": "Mary Welles",
+          "Birthday": "9/8/1664",
+          "Deathday": "1751",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg01/fg01_482.htm",
           "id": "888",
           "value": "888",
-          "name": "888"
+          "name": "Mary Welles"
         }
       },
       {
         "data": {
-          "label": "Hezekiah Dickinson",
+          "Name": "Hezekiah Dickinson",
+          "Birthday": "2/1/1645",
+          "Deathday": "6/14/1707",
+          "Wedding": "12/4/1670",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg04/fg04_068.htm",
           "id": "889",
           "value": "889",
-          "name": "889"
+          "name": "Hezekiah Dickinson"
         }
       },
       {
         "data": {
-          "label": "Abigail Blackman",
+          "Name": "Abigail Blackman",
+          "Deathday": "1717",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg04/fg04_068.htm",
           "id": "890",
           "value": "890",
-          "name": "890"
+          "name": "Abigail Blackman"
         }
       },
       {
         "data": {
-          "label": "Thomas Nash",
+          "Name": "Thomas Nash",
+          "Deathday": "1/19/1728",
+          "Wedding": "8/1/1685",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg01/fg01_289.htm",
           "id": "891",
           "value": "891",
-          "name": "891"
+          "name": "Thomas Nash"
         }
       },
       {
         "data": {
-          "label": "Hannah Coleman",
+          "Name": "Hannah Coleman",
+          "Birthday": "2/14/1667",
+          "Deathday": "7/4/1722",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg01/fg01_289.htm",
           "id": "892",
           "value": "892",
-          "name": "892"
+          "name": "Hannah Coleman"
         }
       },
       {
         "data": {
-          "label": "John Field",
+          "Name": "John Field",
+          "Link1": "http://www.kinnexions.com/kinnexions/hadley/fg04/fg04_445.htm",
           "id": "893",
           "value": "893",
-          "name": "893"
+          "name": "John Field"
         }
       },
       {
         "data": {
-          "label": "Halliday",
+          "Name": "Halliday",
           "id": "895",
           "value": "895",
-          "name": "895"
+          "name": "Halliday"
         }
       },
       {
         "data": {
-          "label": "John Hoyt",
+          "Name": "John Hoyt",
+          "Occupation": "end of Hoyt book",
           "id": "1023",
           "value": "1023",
-          "name": "1023"
+          "name": "John Hoyt"
         }
       },
       {
         "data": {
-          "label": "Frances Hoyt, nee (?)",
+          "Name": "Frances Hoyt, nee (?)",
           "id": "1024",
           "value": "1024",
-          "name": "1024"
+          "name": "Frances Hoyt, nee (?)"
         }
       },
       {
         "data": {
-          "label": "Thomas Dow",
+          "Name": "Thomas Dow",
+          "Birthday": "1/16/1601",
+          "Deathday": "5/21/1654",
+          "Notes": "http://www.wikitree.com/wiki/Dow-31",
           "id": "1119",
           "value": "1119",
-          "name": "1119"
+          "name": "Thomas Dow"
         }
       },
       {
         "data": {
-          "label": "Phebe Latly",
+          "Name": "Phebe Latly",
+          "Birthday": "1616",
+          "Deathday": "11/3/1672",
+          "Wedding": "1636",
+          "Notes": "http://www.wikitree.com/wiki/Latly-1",
           "id": "1120",
           "value": "1120",
-          "name": "1120"
+          "name": "Phebe Latly"
         }
       },
       {
         "data": {
-          "label": "Abel Wolterton Merrill",
+          "Name": "Abel Wolterton Merrill",
+          "Birthday": "2/20/1644",
+          "Deathday": "10/28/1684",
           "id": "1137",
           "value": "1137",
-          "name": "1137"
+          "name": "Abel Wolterton Merrill"
         }
       },
       {
         "data": {
-          "label": "Priscilla Chase",
+          "Name": "Priscilla Chase",
+          "Birthday": "3/14/1649",
+          "Deathday": "11/1/1697",
           "id": "1138",
           "value": "1138",
-          "name": "1138"
+          "name": "Priscilla Chase"
         }
       },
       {
         "data": {
-          "label": "Gilbert Tapley",
+          "Name": "Gilbert Tapley",
           "id": "1535",
           "value": "1535",
-          "name": "1535"
+          "name": "Gilbert Tapley"
         }
       },
       {
         "data": {
-          "label": "Thomasine Tapley, nee (?)",
+          "Name": "Thomasine Tapley, nee (?)",
+          "Notes": "Salem",
           "id": "1536",
           "value": "1536",
-          "name": "1536"
+          "name": "Thomasine Tapley, nee (?)"
         }
       },
       {
         "data": {
-          "label": "Thomas Small",
+          "Name": "Thomas Small",
+          "Notes": "salem",
           "id": "1537",
           "value": "1537",
-          "name": "1537"
+          "name": "Thomas Small"
         }
       },
       {
         "data": {
-          "label": "Ruth Small, nee (?)",
+          "Name": "Ruth Small, nee (?)",
+          "Notes": "salem",
           "id": "1538",
           "value": "1538",
-          "name": "1538"
+          "name": "Ruth Small, nee (?)"
         }
       },
       {
         "data": {
-          "label": "Samuel Roberts",
+          "Name": "Samuel Roberts",
+          "Birthday": "1640",
+          "Deathday": "1726",
+          "Residences": "b. Mattabesett Plantations, CT; d. England",
+          "Link1": "http://records.ancestry.com/samuel_roberts_records.ashx?pid=1939580",
           "id": "1663",
           "value": "1663",
-          "name": "1663"
+          "name": "Samuel Roberts"
         }
       },
       {
         "data": {
-          "label": "Catherine Leete",
+          "Name": "Catherine Leete",
+          "Birthday": "1640",
+          "Deathday": "1736",
+          "Residences": "England",
+          "Link1": "http://records.ancestry.com/catherine_leete_records.ashx?pid=1973520",
           "id": "1664",
           "value": "1664",
-          "name": "1664"
+          "name": "Catherine Leete"
         }
       },
       {
         "data": {
-          "label": "James Forbes",
+          "Name": "James Forbes",
+          "Birthday": "1609",
+          "Deathday": "1692",
+          "Residences": "b. Pro, Scotland; d. CT",
+          "Link1": "http://records.ancestry.com/james_forbes_records.ashx?pid=15458418",
           "id": "1665",
           "value": "1665",
-          "name": "1665"
+          "name": "James Forbes"
         }
       },
       {
         "data": {
-          "label": "Catherine Forbes (nee ?)",
+          "Name": "Catherine Forbes (nee ?)",
+          "Birthday": "1640",
+          "Residences": "Hartford, CT",
+          "Link1": "http://records.ancestry.com/catherine_records.ashx?pid=12607081",
           "id": "1666",
           "value": "1666",
-          "name": "1666"
+          "name": "Catherine Forbes (nee ?)"
         }
       },
       {
         "data": {
-          "label": "Keeney",
+          "Name": "Keeney",
           "id": "1667",
           "value": "1667",
-          "name": "1667"
+          "name": "Keeney"
         }
       },
       {
         "data": {
-          "label": "Joseph Hills",
+          "Name": "Joseph Hills",
+          "Birthday": "1649",
+          "Deathday": "1714",
+          "Residences": "b. Billerica, Essex, England; d. CT",
+          "Notes": "more info -->",
+          "Link1": "http://records.ancestry.com/joseph_hills_records.ashx?pid=21457002",
           "id": "1669",
           "value": "1669",
-          "name": "1669"
+          "name": "Joseph Hills"
         }
       },
       {
         "data": {
-          "label": "Hannah Edwards",
+          "Name": "Hannah Edwards",
+          "Birthday": "1653",
+          "Deathday": "1687",
+          "Residences": "b. Wethersfield; d. CT",
+          "Notes": "more info -->",
+          "Link1": "http://records.ancestry.com/hannah_edwards_records.ashx?pid=21451468",
           "id": "1670",
           "value": "1670",
-          "name": "1670"
+          "name": "Hannah Edwards"
         }
       },
       {
         "data": {
-          "label": "Nathanial Dickinson",
+          "Name": "Nathanial Dickinson",
           "id": "1759",
           "value": "1759",
-          "name": "1759"
+          "name": "Nathanial Dickinson"
         }
       },
       {
         "data": {
-          "label": "Anne",
+          "Name": "Anne",
           "id": "1760",
           "value": "1760",
-          "name": "1760"
+          "name": "Anne"
         }
       },
       {
         "data": {
-          "label": "Halliday",
+          "Name": "Halliday",
           "id": "1791",
           "value": "1791",
-          "name": "1791"
+          "name": "Halliday"
         }
       },
       {
         "data": {
-          "label": "Henry Dow Sr.",
+          "Name": "Henry Dow Sr.",
+          "Birthday": "1577",
+          "Deathday": "4/21/1613",
+          "Wedding": "5/12/1594",
+          "Notes": "http://www.wikitree.com/wiki/Dow-28",
           "id": "2239",
           "value": "2239",
-          "name": "2239"
+          "name": "Henry Dow Sr."
         }
       },
       {
         "data": {
-          "label": "Elizabeth Marche",
+          "Name": "Elizabeth Marche",
+          "Birthday": "1/15/1573",
+          "Deathday": "1614",
+          "Notes": "http://www.wikitree.com/wiki/Marche-82",
           "id": "2240",
           "value": "2240",
-          "name": "2240"
+          "name": "Elizabeth Marche"
         }
       },
       {
         "data": {
-          "label": "Nathaniel Merrill",
+          "Name": "Nathaniel Merrill",
+          "Birthday": "5/4/1601",
+          "Deathday": "3/16/1655",
           "id": "2275",
           "value": "2275",
-          "name": "2275"
+          "name": "Nathaniel Merrill"
         }
       },
       {
         "data": {
-          "label": "Susanna Wolterton",
+          "Name": "Susanna Wolterton",
+          "Birthday": "1650",
+          "Deathday": "1/25/1673",
           "id": "2276",
           "value": "2276",
-          "name": "2276"
+          "name": "Susanna Wolterton"
         }
       },
       {
         "data": {
-          "label": "Duncan Forbes",
+          "Name": "Duncan Forbes",
+          "Birthday": "1590",
+          "Deathday": "1613",
+          "Residences": "b. Scotland; d. Flodden",
+          "Link1": "http://records.ancestry.com/duncan_forbes_records.ashx?pid=15467493",
           "id": "3331",
           "value": "3331",
-          "name": "3331"
+          "name": "Duncan Forbes"
         }
       },
       {
         "data": {
-          "label": "Janet Forbes",
+          "Name": "Janet Forbes",
+          "Birthday": "1588",
+          "Residences": "Scotland",
+          "Notes": "more info--->",
+          "Link1": "http://records.ancestry.com/janet_forbes_records.ashx?pid=15566785",
           "id": "3332",
           "value": "3332",
-          "name": "3332"
+          "name": "Janet Forbes"
         }
       }
     ],
