@@ -13,7 +13,6 @@ CYTOSCAPE = os.path.join(HERE, 'cytoscape.json')
 
 
 def get_df(force: bool = False) -> pd.DataFrame:
-    """"""
     if not os.path.exists(PATH) and not force:
         urlretrieve(URL, PATH)
 
@@ -27,7 +26,7 @@ def get_df(force: bool = False) -> pd.DataFrame:
 
 
 def df_to_graph(df: pd.DataFrame) -> nx.DiGraph:
-    rv = nx.DiGraph()
+    graph = nx.DiGraph()
     # Index	Name	Father	Mother	Birthday	Deathday
     # Wedding	Spouse	Siblings	Birthplace	Immigration	Residences
     # Burial Site	Education	Military Service	Occupation
@@ -49,21 +48,29 @@ def df_to_graph(df: pd.DataFrame) -> nx.DiGraph:
             if pd.notna(v)
         }
         # add data later
-        rv.add_node(idx, label=label, id=idx)
+        graph.add_node(idx, label=label, id=idx)
 
     for idx, father, mother, spouse in df[['Father', 'Mother', 'Spouse']].itertuples(index=True):
         idx = str(int(idx))
         if pd.notna(father):
             father = str(int(father))
-            rv.add_edge(father, idx, type='father', id=f'{idx}_{father}')
+            graph.add_edge(idx, father, type='father', id=f'{idx}_{father}')
         if pd.notna(mother):
             mother = str(int(mother))
-            rv.add_edge(mother, idx, type='mother', id=f'{idx}_{mother}')
+            graph.add_edge(idx, mother, type='mother', id=f'{idx}_{mother}')
         if pd.notna(spouse):
             spouse = str(int(spouse))
-            rv.add_edge(spouse, idx, type='spouse', id=f'{idx}_{spouse}')
+            graph.add_edge(idx, spouse, type='spouse', id=f'{idx}_{spouse}')
 
-    return rv
+    # add levels from chuck (# 1)
+    # levels = nx.single_source_shortest_path_length(graph, "1")
+    # max_level = 1 + max(levels.values())
+    # #graph.nodes[1]['level'] = max_level
+    # for node in graph:
+    #     level = levels[node]
+    #     graph.nodes[node]['level'] = max_level - level
+
+    return graph
 
 
 def main():
