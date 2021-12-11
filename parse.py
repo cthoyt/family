@@ -13,6 +13,11 @@ HOYT_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQn5iJCSSQwCnxtkb65d
 HOYT_PATH = HOYTS_DATA / "data.tsv"
 HOYT_CYTOSCAPE = HOYTS_DATA / "cytoscape.json"
 
+GRAVE_DATA = HERE / "grave"
+GRAVE_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSWiQhr3Is9lkCrbc2pneAxlE6BjKuZgarmGZ69ZpVX7BvkrdqIrwoc4ZQ2tck-fc_k2QgGA2yGXnmy/pub?gid=0&single=true&output=tsv"
+GRAVE_PATH = GRAVE_DATA / "data.tsv"
+GRAVE_CYTOSCAPE = GRAVE_DATA / "cytoscape.json"
+
 
 def get_df(url: str, path: Path) -> pd.DataFrame:
     urlretrieve(url, path)
@@ -77,6 +82,7 @@ def make_cytoscape(url, path, cytoscape, label):
 
 
 def main():
+    grave_graph = make_cytoscape(GRAVE_URL, GRAVE_PATH, GRAVE_CYTOSCAPE, label="grave")
     hoyt_graph = make_cytoscape(HOYT_URL, HOYT_PATH, HOYT_CYTOSCAPE, label="hoyt")
 
 

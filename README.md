@@ -2,4 +2,5 @@
 
 Visualization and Exploration of the Hoyt Family Tree
 
-- https://cthoyt.com/family/hoyts
+- [Hoyt family tree](https://cthoyt.com/family/hoyts)
+- [Grave family tree](https://cthoyt.com/family/hoyts)

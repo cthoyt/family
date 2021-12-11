@@ -1,0 +1,1659 @@
+{
+  "data": [],
+  "directed": true,
+  "multigraph": false,
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "Name": "Frederick David Grave III",
+          "Birthday": "8/8/1926",
+          "Wedding": "10/24/1953",
+          "# Siblings": "4",
+          "Birthplace": "New Haven, CT",
+          "Residences": "Lucerne, Hamden, CT",
+          "Education": "Westminster (Simsbury), Yale University",
+          "Military Service": "WWII",
+          "Occupation": "Cigar Manufacturer",
+          "Notes": "re-mar. to Kathryn",
+          "id": "1",
+          "value": "1",
+          "name": "Frederick David Grave III"
+        }
+      },
+      {
+        "data": {
+          "Name": "Dorothy Lucienne Solakian",
+          "Birthday": "7/4/1926",
+          "Deathday": "1/13/2018",
+          "# Siblings": "1",
+          "Birthplace": "Washington D.C.",
+          "Residences": "2222 Ridge Road, North Haven, CT",
+          "Occupation": "real estate",
+          "Christening": "Congregational church",
+          "Notes": "prev, m. to Lysle",
+          "id": "2",
+          "value": "2",
+          "name": "Dorothy Lucienne Solakian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Frederick David Grave Jr.",
+          "Birthday": "9/13/1889",
+          "Deathday": "1/15/1963",
+          "Wedding": "9/29/1924",
+          "# Siblings": "2",
+          "Residences": "Lucerne, Hamden",
+          "Burial Site": "Evergreen Cemetery, New Haven",
+          "Education": "Hillhouse High School (New Haven), Yale University 1911 S",
+          "Occupation": "Cigar Manufacturer",
+          "Links": "http://politicalgraveyard.com/geo/CT/german.html",
+          "id": "3",
+          "value": "3",
+          "name": "Frederick David Grave Jr."
+        }
+      },
+      {
+        "data": {
+          "Name": "Elizabeth Mary Moran",
+          "Birthday": "12/19/1900",
+          "Deathday": "4/4/1987",
+          "# Siblings": "1",
+          "Residences": "New Haven, CT",
+          "Burial Site": "Evergreen Cemetery, New Haven",
+          "Notes": "Graham Cracker",
+          "id": "4",
+          "value": "4",
+          "name": "Elizabeth Mary Moran"
+        }
+      },
+      {
+        "data": {
+          "Name": "Haig Nerses Solakian",
+          "Birthday": "2/22/1890",
+          "Deathday": "1/30/1976",
+          "Wedding": "8/28/1924",
+          "# Siblings": "3",
+          "Birthplace": "Kilis, Aleppo, Armenia",
+          "Immigration": "Aug 1912 from Liverpool",
+          "Residences": "241 Pine Orchard Rd, Pine Orchard, CT",
+          "Burial Site": "Branford Center Cemetery",
+          "Education": "MIT",
+          "Military Service": "WWII",
+          "Occupation": "Engineer, A.F. Holden Co.",
+          "Notes": "picture in passport app/ draft in ww I&II, birthday may be 1892",
+          "Links": "https://familysearch.org/ark:/61903/1:1:X5LW-DWR",
+          "Unnamed: 19": "https://familysearch.org/ark:/61903/1:1:JNQL-V3V",
+          "Unnamed: 20": "https://familysearch.org/ark:/61903/1:1:KZNG-YQ8",
+          "Unnamed: 21": "https://familysearch.org/ark:/61903/1:1:QVJG-GW43",
+          "Unnamed: 22": "https://familysearch.org/ark:/61903/1:1:QVJG-GW43",
+          "id": "5",
+          "value": "5",
+          "name": "Haig Nerses Solakian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Rose Nazaretian",
+          "Birthday": "9/26/1903",
+          "Deathday": "5/10/1999",
+          "# Siblings": "5",
+          "Birthplace": "Alexandria, Egypt",
+          "Immigration": "1924",
+          "Residences": "105 Harrison St, New Haven; 241 Pine Orchard Rd, Pine Orchard, CT",
+          "Burial Site": "Branford Center Cemetery",
+          "Links": "https://familysearch.org/ark:/61903/1:1:JNQL-V3F",
+          "Unnamed: 19": "https://familysearch.org/ark:/61903/1:1:VX5T-Q3R",
+          "id": "6",
+          "value": "6",
+          "name": "Rose Nazaretian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Frederick David Grave Sr.",
+          "Birthday": "10/7/1849",
+          "Deathday": "5/26/1924",
+          "Wedding": "9/11/1877",
+          "# Siblings": "5/6",
+          "Residences": "Lucerne, Hamden",
+          "Burial Site": "Evergreen Cemetery, New Haven",
+          "Occupation": "Cigar Manufacturer",
+          "id": "7",
+          "value": "7",
+          "name": "Frederick David Grave Sr."
+        }
+      },
+      {
+        "data": {
+          "Name": "Catherine Elizabeth Stoffell (Strauffel)",
+          "Birthday": "12/31/1852",
+          "Deathday": "8/6/1917",
+          "Burial Site": "Evergreen Cemetery, New Haven",
+          "Notes": "the hairdresser",
+          "id": "8",
+          "value": "8",
+          "name": "Catherine Elizabeth Stoffell (Strauffel)"
+        }
+      },
+      {
+        "data": {
+          "Name": "Isaac Cornell Moran",
+          "Birthday": "7/12/1858",
+          "Deathday": "1/24/1912",
+          "Wedding": "7/10/1899",
+          "Birthplace": "Weston, New Jersey",
+          "Burial Site": "Evergreen Cemetery, New Haven",
+          "Links": "https://www.ancestry.com/search/?name=mary_hand&spouse=_moran",
+          "id": "9",
+          "value": "9",
+          "name": "Isaac Cornell Moran"
+        }
+      },
+      {
+        "data": {
+          "Name": "Mary Evelyn Hand",
+          "Birthday": "7/24/1872",
+          "Deathday": "12/4/1946",
+          "Birthplace": "NY, NY",
+          "Residences": "New York",
+          "Burial Site": "Evergreen Cemetery, New Haven",
+          "Notes": "Muzzy",
+          "Links": "https://familysearch.org/ark:/61903/1:1:QV5Y-H41C",
+          "id": "10",
+          "value": "10",
+          "name": "Mary Evelyn Hand"
+        }
+      },
+      {
+        "data": {
+          "Name": "Nerses H Solakian",
+          "# Siblings": "6",
+          "Notes": "murdered Armenian Genocide",
+          "id": "11",
+          "value": "11",
+          "name": "Nerses H Solakian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Abrohy D Selahian",
+          "Links": "https://familysearch.org/ark:/61903/1:1:23Y8-LNP",
+          "id": "12",
+          "value": "12",
+          "name": "Abrohy D Selahian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Nazar Nazaretian",
+          "Birthday": "1/4/1876",
+          "id": "13",
+          "value": "13",
+          "name": "Nazar Nazaretian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Zarouhi \"Elizabeth\" Solakian",
+          "Birthday": "2/13/1878",
+          "Deathday": "1955",
+          "# Siblings": "6",
+          "id": "14",
+          "value": "14",
+          "name": "Zarouhi \"Elizabeth\" Solakian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Johann Christian William (Wilhelm) Grave",
+          "Birthday": "1/5/1809",
+          "Deathday": "1/19/1877",
+          "Birthplace": "Hagen, Osnabruck, Germany",
+          "id": "15",
+          "value": "15",
+          "name": "Johann Christian William (Wilhelm) Grave"
+        }
+      },
+      {
+        "data": {
+          "Name": "Katherina Maria Klussman",
+          "Birthday": "1807",
+          "Deathday": "9/13/1886",
+          "id": "16",
+          "value": "16",
+          "name": "Katherina Maria Klussman"
+        }
+      },
+      {
+        "data": {
+          "Name": "Henry Stoffel",
+          "Birthday": "2/26/1814",
+          "Deathday": "1/29/1879",
+          "Wedding": "1/13/1848",
+          "id": "17",
+          "value": "17",
+          "name": "Henry Stoffel"
+        }
+      },
+      {
+        "data": {
+          "Name": "Elizabeth Hafner",
+          "Birthday": "4/6/1824",
+          "Deathday": "10/27/1895",
+          "id": "18",
+          "value": "18",
+          "name": "Elizabeth Hafner"
+        }
+      },
+      {
+        "data": {
+          "Name": "Theodore Thomas Moran",
+          "Birthday": "10/23/1823",
+          "Deathday": "4/13/1897",
+          "Wedding": "9/17/1857",
+          "Birthplace": "Belgium",
+          "id": "19",
+          "value": "19",
+          "name": "Theodore Thomas Moran"
+        }
+      },
+      {
+        "data": {
+          "Name": "Sarah Duyckinck Cornell",
+          "Birthday": "8/6/1836",
+          "Deathday": "3/26/1889",
+          "Birthplace": "New Jersey",
+          "id": "20",
+          "value": "20",
+          "name": "Sarah Duyckinck Cornell"
+        }
+      },
+      {
+        "data": {
+          "Name": "Thomas Hand",
+          "Birthplace": "Ireland",
+          "id": "21",
+          "value": "21",
+          "name": "Thomas Hand"
+        }
+      },
+      {
+        "data": {
+          "Name": "Mary A? ",
+          "Birthplace": "Ireland",
+          "id": "22",
+          "value": "22",
+          "name": "Mary A? "
+        }
+      },
+      {
+        "data": {
+          "Name": "Kevork (George) Solakian",
+          "id": "23",
+          "value": "23",
+          "name": "Kevork (George) Solakian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Vartoohi (Rose) (Silahian) Topalian",
+          "Deathday": "1921",
+          "id": "24",
+          "value": "24",
+          "name": "Vartoohi (Rose) (Silahian) Topalian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Tavit Selahian",
+          "id": "25",
+          "value": "25",
+          "name": "Tavit Selahian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Artin Agha Nazaretian",
+          "Birthday": "1851",
+          "Deathday": "1924",
+          "id": "27",
+          "value": "27",
+          "name": "Artin Agha Nazaretian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Lucia Atashian",
+          "id": "28",
+          "value": "28",
+          "name": "Lucia Atashian"
+        }
+      },
+      {
+        "data": {
+          "Name": "see 23",
+          "id": "29",
+          "value": "29",
+          "name": "see 23"
+        }
+      },
+      {
+        "data": {
+          "Name": "see 24",
+          "id": "30",
+          "value": "30",
+          "name": "see 24"
+        }
+      },
+      {
+        "data": {
+          "Name": "Gerhard Heinrich Grave",
+          "Birthday": "1781",
+          "id": "31",
+          "value": "31",
+          "name": "Gerhard Heinrich Grave"
+        }
+      },
+      {
+        "data": {
+          "Name": "Dorothea Kleinmeyer",
+          "Birthday": "1781",
+          "id": "32",
+          "value": "32",
+          "name": "Dorothea Kleinmeyer"
+        }
+      },
+      {
+        "data": {
+          "Name": "Klussman",
+          "Birthday": "1785",
+          "id": "33",
+          "value": "33",
+          "name": "Klussman"
+        }
+      },
+      {
+        "data": {
+          "Name": "Philip Jacob Stoffel",
+          "Birthday": "2/19/1774",
+          "Deathday": "7/28/1856",
+          "Wedding": "1795",
+          "id": "35",
+          "value": "35",
+          "name": "Philip Jacob Stoffel"
+        }
+      },
+      {
+        "data": {
+          "Name": "Marguerite Shaefer",
+          "Birthday": "5/14/1776",
+          "Deathday": "3/4/1853",
+          "id": "36",
+          "value": "36",
+          "name": "Marguerite Shaefer"
+        }
+      },
+      {
+        "data": {
+          "Name": "Johan Nicolas Hafner",
+          "Birthday": "10/14/1797",
+          "Deathday": "11/24/1846",
+          "Wedding": "1820",
+          "id": "37",
+          "value": "37",
+          "name": "Johan Nicolas Hafner"
+        }
+      },
+      {
+        "data": {
+          "Name": "Anna Marguerite Pfarr",
+          "Birthday": "12/10/1797",
+          "Deathday": "9/6/1849",
+          "id": "38",
+          "value": "38",
+          "name": "Anna Marguerite Pfarr"
+        }
+      },
+      {
+        "data": {
+          "Name": "Daniel Moran",
+          "id": "39",
+          "value": "39",
+          "name": "Daniel Moran"
+        }
+      },
+      {
+        "data": {
+          "Name": "Marianne Losson",
+          "id": "40",
+          "value": "40",
+          "name": "Marianne Losson"
+        }
+      },
+      {
+        "data": {
+          "Name": "Isaac Russell Cornell",
+          "Birthday": "9/17/1805",
+          "Deathday": "1/17/1896",
+          "Wedding": "3/15/1831",
+          "Burial Site": "Greenwood Cemetery",
+          "Military Service": "American Civil War, Zouve Regiment",
+          "id": "41",
+          "value": "41",
+          "name": "Isaac Russell Cornell"
+        }
+      },
+      {
+        "data": {
+          "Name": "Elizabeth Mary Duyckinck",
+          "Birthday": "2/15/1814",
+          "Deathday": "5/3/1899",
+          "id": "42",
+          "value": "42",
+          "name": "Elizabeth Mary Duyckinck"
+        }
+      },
+      {
+        "data": {
+          "Name": "Selahian",
+          "id": "51",
+          "value": "51",
+          "name": "Selahian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Nazar Agha Nazaretian",
+          "Birthday": "1817",
+          "Deathday": "1887",
+          "id": "55",
+          "value": "55",
+          "name": "Nazar Agha Nazaretian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Zoumrout Halebian",
+          "Birthday": "1820",
+          "Deathday": "1890",
+          "id": "56",
+          "value": "56",
+          "name": "Zoumrout Halebian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Christian Stoffel",
+          "id": "71",
+          "value": "71",
+          "name": "Christian Stoffel"
+        }
+      },
+      {
+        "data": {
+          "Name": "Louisa Steinmetz",
+          "id": "72",
+          "value": "72",
+          "name": "Louisa Steinmetz"
+        }
+      },
+      {
+        "data": {
+          "Name": "Johan George Shaefer",
+          "id": "73",
+          "value": "73",
+          "name": "Johan George Shaefer"
+        }
+      },
+      {
+        "data": {
+          "Name": "Anna Margrella Stephon",
+          "id": "74",
+          "value": "74",
+          "name": "Anna Margrella Stephon"
+        }
+      },
+      {
+        "data": {
+          "Name": "Balthaser Hafner",
+          "id": "75",
+          "value": "75",
+          "name": "Balthaser Hafner"
+        }
+      },
+      {
+        "data": {
+          "Name": "Sebela Rohr",
+          "id": "76",
+          "value": "76",
+          "name": "Sebela Rohr"
+        }
+      },
+      {
+        "data": {
+          "Name": "Johan George Pfarr",
+          "id": "77",
+          "value": "77",
+          "name": "Johan George Pfarr"
+        }
+      },
+      {
+        "data": {
+          "Name": "Anna Maria Schaffer",
+          "id": "78",
+          "value": "78",
+          "name": "Anna Maria Schaffer"
+        }
+      },
+      {
+        "data": {
+          "Name": "John Cornell",
+          "id": "83",
+          "value": "83",
+          "name": "John Cornell"
+        }
+      },
+      {
+        "data": {
+          "Name": "Sarah Cortelyou",
+          "id": "84",
+          "value": "84",
+          "name": "Sarah Cortelyou"
+        }
+      },
+      {
+        "data": {
+          "Name": "Richard Bancker Duyckinck",
+          "Birthday": "8/3/1780",
+          "Deathday": "5/25/1874",
+          "Wedding": "4/10/1813",
+          "id": "85",
+          "value": "85",
+          "name": "Richard Bancker Duyckinck"
+        }
+      },
+      {
+        "data": {
+          "Name": "Elizabeth Mary Donan",
+          "Birthday": "10/11/1789",
+          "Deathday": "12/10/1861",
+          "Links": "https://books.google.com/books?id=ylPABgAAQBAJ&pg=PA203&lpg=PA203&dq=sarah+cortelyou+m+john+cornell&source=bl&ots=ds3iZRAQab&sig=HqgXcETy_cdhllDP4DLjgcEZKJU&hl=en&sa=X&ved=0CCcQ6AEwA2oVChMIo-q07pHcxgIVSI8NCh2lYgki#v=onepage&q=donnan&f=false",
+          "id": "86",
+          "value": "86",
+          "name": "Elizabeth Mary Donan"
+        }
+      },
+      {
+        "data": {
+          "Name": "Artin Harutine Nazarian",
+          "Birthday": "1778-1853",
+          "id": "111",
+          "value": "111",
+          "name": "Artin Harutine Nazarian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Mariam Chopourian",
+          "id": "112",
+          "value": "112",
+          "name": "Mariam Chopourian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Whitehead Cornell",
+          "id": "167",
+          "value": "167",
+          "name": "Whitehead Cornell"
+        }
+      },
+      {
+        "data": {
+          "Name": "Margaret Sebring",
+          "id": "168",
+          "value": "168",
+          "name": "Margaret Sebring"
+        }
+      },
+      {
+        "data": {
+          "Name": "James Duyckinck",
+          "Birthday": "1/8/1741",
+          "Deathday": "9/24/1822",
+          "Wedding": "11/7/1772",
+          "id": "171",
+          "value": "171",
+          "name": "James Duyckinck"
+        }
+      },
+      {
+        "data": {
+          "Name": "Mary Taylor",
+          "id": "172",
+          "value": "172",
+          "name": "Mary Taylor"
+        }
+      },
+      {
+        "data": {
+          "Name": "Baghsar Nazarian",
+          "Birthday": "1753",
+          "Deathday": "1825",
+          "id": "223",
+          "value": "223",
+          "name": "Baghsar Nazarian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Evert Duyckinck",
+          "Deathday": "1782",
+          "Wedding": "12/21/1729",
+          "Burial Site": "5/12/1706",
+          "id": "343",
+          "value": "343",
+          "name": "Evert Duyckinck"
+        }
+      },
+      {
+        "data": {
+          "Name": "Aafje Hardenbroeck",
+          "id": "344",
+          "value": "344",
+          "name": "Aafje Hardenbroeck"
+        }
+      },
+      {
+        "data": {
+          "Name": "Khoja Artin Nazarian",
+          "Birthday": "1718",
+          "Deathday": "1786",
+          "id": "447",
+          "value": "447",
+          "name": "Khoja Artin Nazarian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Evert Duyckinck",
+          "Birthday": "7/23/1677",
+          "Deathday": "1727",
+          "Wedding": "2/3/1704",
+          "id": "687",
+          "value": "687",
+          "name": "Evert Duyckinck"
+        }
+      },
+      {
+        "data": {
+          "Name": "Elsje Meyer",
+          "Deathday": "9/16/1728",
+          "id": "688",
+          "value": "688",
+          "name": "Elsje Meyer"
+        }
+      },
+      {
+        "data": {
+          "Name": "Khoja Nazar Nazarian",
+          "Birthday": "1686",
+          "Deathday": "1756",
+          "id": "895",
+          "value": "895",
+          "name": "Khoja Nazar Nazarian"
+        }
+      },
+      {
+        "data": {
+          "Name": "Evert Duycking",
+          "Deathday": "1680",
+          "Education": "10/20/1650",
+          "id": "1375",
+          "value": "1375",
+          "name": "Evert Duycking"
+        }
+      },
+      {
+        "data": {
+          "Name": "Cornellia Jacobse Toll",
+          "id": "1376",
+          "value": "1376",
+          "name": "Cornellia Jacobse Toll"
+        }
+      },
+      {
+        "data": {
+          "Name": "Khoja Shahnazar Yeghia Nazarian",
+          "id": "1792",
+          "value": "1792",
+          "name": "Khoja Shahnazar Yeghia Nazarian"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "type": "father",
+          "id": "1_3",
+          "source": "1",
+          "target": "3"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "1_4",
+          "source": "1",
+          "target": "4"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "1_2",
+          "source": "1",
+          "target": "2"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "2_5",
+          "source": "2",
+          "target": "5"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "2_6",
+          "source": "2",
+          "target": "6"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "2_1",
+          "source": "2",
+          "target": "1"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "3_7",
+          "source": "3",
+          "target": "7"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "3_8",
+          "source": "3",
+          "target": "8"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "3_4",
+          "source": "3",
+          "target": "4"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "4_9",
+          "source": "4",
+          "target": "9"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "4_10",
+          "source": "4",
+          "target": "10"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "4_3",
+          "source": "4",
+          "target": "3"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "5_11",
+          "source": "5",
+          "target": "11"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "5_12",
+          "source": "5",
+          "target": "12"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "5_6",
+          "source": "5",
+          "target": "6"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "6_13",
+          "source": "6",
+          "target": "13"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "6_14",
+          "source": "6",
+          "target": "14"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "6_5",
+          "source": "6",
+          "target": "5"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "7_15",
+          "source": "7",
+          "target": "15"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "7_16",
+          "source": "7",
+          "target": "16"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "7_8",
+          "source": "7",
+          "target": "8"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "8_17",
+          "source": "8",
+          "target": "17"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "8_18",
+          "source": "8",
+          "target": "18"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "8_7",
+          "source": "8",
+          "target": "7"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "9_19",
+          "source": "9",
+          "target": "19"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "9_20",
+          "source": "9",
+          "target": "20"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "9_10",
+          "source": "9",
+          "target": "10"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "10_21",
+          "source": "10",
+          "target": "21"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "10_22",
+          "source": "10",
+          "target": "22"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "10_9",
+          "source": "10",
+          "target": "9"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "11_23",
+          "source": "11",
+          "target": "23"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "11_24",
+          "source": "11",
+          "target": "24"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "11_12",
+          "source": "11",
+          "target": "12"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "12_25",
+          "source": "12",
+          "target": "25"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "12_11",
+          "source": "12",
+          "target": "11"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "13_27",
+          "source": "13",
+          "target": "27"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "13_28",
+          "source": "13",
+          "target": "28"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "13_14",
+          "source": "13",
+          "target": "14"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "14_29",
+          "source": "14",
+          "target": "29"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "14_30",
+          "source": "14",
+          "target": "30"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "14_13",
+          "source": "14",
+          "target": "13"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "15_31",
+          "source": "15",
+          "target": "31"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "15_32",
+          "source": "15",
+          "target": "32"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "15_16",
+          "source": "15",
+          "target": "16"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "16_33",
+          "source": "16",
+          "target": "33"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "16_15",
+          "source": "16",
+          "target": "15"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "17_35",
+          "source": "17",
+          "target": "35"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "17_36",
+          "source": "17",
+          "target": "36"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "17_18",
+          "source": "17",
+          "target": "18"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "18_37",
+          "source": "18",
+          "target": "37"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "18_38",
+          "source": "18",
+          "target": "38"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "18_17",
+          "source": "18",
+          "target": "17"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "19_39",
+          "source": "19",
+          "target": "39"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "19_40",
+          "source": "19",
+          "target": "40"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "19_20",
+          "source": "19",
+          "target": "20"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "20_41",
+          "source": "20",
+          "target": "41"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "20_42",
+          "source": "20",
+          "target": "42"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "20_19",
+          "source": "20",
+          "target": "19"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "21_22",
+          "source": "21",
+          "target": "22"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "22_21",
+          "source": "22",
+          "target": "21"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "23_24",
+          "source": "23",
+          "target": "24"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "24_23",
+          "source": "24",
+          "target": "23"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "25_51",
+          "source": "25",
+          "target": "51"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "27_55",
+          "source": "27",
+          "target": "55"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "27_56",
+          "source": "27",
+          "target": "56"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "27_28",
+          "source": "27",
+          "target": "28"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "28_27",
+          "source": "28",
+          "target": "27"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "29_30",
+          "source": "29",
+          "target": "30"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "30_29",
+          "source": "30",
+          "target": "29"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "31_32",
+          "source": "31",
+          "target": "32"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "32_31",
+          "source": "32",
+          "target": "31"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "35_71",
+          "source": "35",
+          "target": "71"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "35_72",
+          "source": "35",
+          "target": "72"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "35_36",
+          "source": "35",
+          "target": "36"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "36_73",
+          "source": "36",
+          "target": "73"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "36_74",
+          "source": "36",
+          "target": "74"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "36_35",
+          "source": "36",
+          "target": "35"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "37_75",
+          "source": "37",
+          "target": "75"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "37_76",
+          "source": "37",
+          "target": "76"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "37_38",
+          "source": "37",
+          "target": "38"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "38_77",
+          "source": "38",
+          "target": "77"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "38_78",
+          "source": "38",
+          "target": "78"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "38_37",
+          "source": "38",
+          "target": "37"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "39_40",
+          "source": "39",
+          "target": "40"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "40_39",
+          "source": "40",
+          "target": "39"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "41_83",
+          "source": "41",
+          "target": "83"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "41_84",
+          "source": "41",
+          "target": "84"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "41_42",
+          "source": "41",
+          "target": "42"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "42_85",
+          "source": "42",
+          "target": "85"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "42_86",
+          "source": "42",
+          "target": "86"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "42_41",
+          "source": "42",
+          "target": "41"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "55_111",
+          "source": "55",
+          "target": "111"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "55_112",
+          "source": "55",
+          "target": "112"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "55_56",
+          "source": "55",
+          "target": "56"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "56_55",
+          "source": "56",
+          "target": "55"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "83_167",
+          "source": "83",
+          "target": "167"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "83_168",
+          "source": "83",
+          "target": "168"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "83_84",
+          "source": "83",
+          "target": "84"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "84_83",
+          "source": "84",
+          "target": "83"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "85_171",
+          "source": "85",
+          "target": "171"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "85_172",
+          "source": "85",
+          "target": "172"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "85_86",
+          "source": "85",
+          "target": "86"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "86_85",
+          "source": "86",
+          "target": "85"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "111_223",
+          "source": "111",
+          "target": "223"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "171_343",
+          "source": "171",
+          "target": "343"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "171_344",
+          "source": "171",
+          "target": "344"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "223_447",
+          "source": "223",
+          "target": "447"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "343_687",
+          "source": "343",
+          "target": "687"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "343_688",
+          "source": "343",
+          "target": "688"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "343_344",
+          "source": "343",
+          "target": "344"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "344_343",
+          "source": "344",
+          "target": "343"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "447_895",
+          "source": "447",
+          "target": "895"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "687_1375",
+          "source": "687",
+          "target": "1375"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "687_1376",
+          "source": "687",
+          "target": "1376"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "895_1792",
+          "source": "895",
+          "target": "1792"
+        }
+      }
+    ]
+  }
+}

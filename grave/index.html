@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hoyt Family Tree</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.13.3/cytoscape.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <style type="text/css">
+        #cy {
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+            float: left;
+        }
+    </style>
+</head>
+<body>
+<div id="cy"></div>
+<script>
+    $.getJSON("cytoscape.json", function (data) {
+        console.log(data);
+        var cy = cytoscape({
+            container: document.getElementById('cy'),
+            elements: data["elements"],
+            style: [
+                {
+                    selector: 'node',
+                    style: {
+                        'label': 'data(name)',
+                        'width': '60px',
+                        'height': '60px',
+                    }
+                },
+                {
+                    selector: 'edge',
+                    style: {
+                        'label': 'data(type)',
+                        'text-background-color': 'yellow',
+                        'text-background-opacity': 0.4,
+                        'width': '6px',
+                        'target-arrow-shape': 'triangle',
+                        'control-point-step-size': '140px'
+                    }
+                }
+            ],
+            layout: {
+                name: 'breadthfirst',
+                roots: ["1", "2"],
+                // circle: true,
+                spacingFactor: 4.0
+            }
+        });
+    });
+</script>
+</body>
+</html>
