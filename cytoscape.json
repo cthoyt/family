@@ -6,6 +6,14 @@
     "nodes": [
       {
         "data": {
+          "Name": "William Halliday Hoyt",
+          "id": "0",
+          "value": "0",
+          "name": "William Halliday Hoyt"
+        }
+      },
+      {
+        "data": {
           "Name": "Charles Lindsay Hoyt",
           "Birthday": "5/7/1925",
           "Deathday": "8/1/2016",
@@ -1755,6 +1763,22 @@
       }
     ],
     "edges": [
+      {
+        "data": {
+          "type": "father",
+          "id": "0_1",
+          "source": "0",
+          "target": "1"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "0_2",
+          "source": "0",
+          "target": "2"
+        }
+      },
       {
         "data": {
           "type": "father",
