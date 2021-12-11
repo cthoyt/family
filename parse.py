@@ -22,7 +22,7 @@ GRAVE_CYTOSCAPE = GRAVE_DATA / "cytoscape.json"
 def get_df(url: str, path: Path) -> pd.DataFrame:
     urlretrieve(url, path)
     df = pd.read_csv(
-        url,
+        path,
         sep="\t",
         index_col=0,
     )

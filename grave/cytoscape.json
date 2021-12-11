@@ -6,6 +6,14 @@
     "nodes": [
       {
         "data": {
+          "Name": "Dorothy Grave Hoyt",
+          "id": "0",
+          "value": "0",
+          "name": "Dorothy Grave Hoyt"
+        }
+      },
+      {
+        "data": {
           "Name": "Frederick David Grave III",
           "Birthday": "8/8/1926",
           "Wedding": "10/24/1953",
@@ -734,6 +742,22 @@
       }
     ],
     "edges": [
+      {
+        "data": {
+          "type": "father",
+          "id": "0_1",
+          "source": "0",
+          "target": "1"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "0_2",
+          "source": "0",
+          "target": "2"
+        }
+      },
       {
         "data": {
           "type": "father",
