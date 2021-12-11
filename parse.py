@@ -1,5 +1,4 @@
 import json
-import os
 from pathlib import Path
 from urllib.request import urlretrieve
 
@@ -11,14 +10,14 @@ HERE = Path(__file__).parent.resolve()
 
 HOYTS_DATA = HERE / "hoyts"
 HOYT_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQn5iJCSSQwCnxtkb65dG3jS0i27oBfkksOXLXGfqV4ERDB7EK0aPPL2NWXToYV5qpZthliNY6csbqv/pub?gid=580418978&single=true&output=tsv"
-HOYT_PATH = HOYTS_DATA / "hoyts.tsv"
+HOYT_PATH = HOYTS_DATA / "data.tsv"
 HOYT_CYTOSCAPE = HOYTS_DATA / "cytoscape.json"
 
 
-def get_hoyt_df() -> pd.DataFrame:
-    urlretrieve(HOYT_URL, HOYT_PATH)
+def get_df(url: str, path: Path) -> pd.DataFrame:
+    urlretrieve(url, path)
     df = pd.read_csv(
-        HOYT_PATH,
+        url,
         sep="\t",
         index_col=0,
     )
@@ -68,13 +67,17 @@ def df_to_graph(df: pd.DataFrame) -> nx.DiGraph:
     return graph
 
 
-def main():
-    hoyt_df = get_hoyt_df()
-    print("There are", len(hoyt_df.index), "Hoyts listed")
-    hoyt_graph = df_to_graph(hoyt_df)
+def make_cytoscape(url, path, cytoscape, label):
+    df = get_df(url, path)
+    print("There are", len(df.index), f"{label.title()}s listed")
+    graph = df_to_graph(df)
+    with open(cytoscape, "w") as file:
+        json.dump(cytoscape_data(graph, attrs={"name": "Name"}), file, indent=2)
+    return graph
 
-    with open(HOYT_CYTOSCAPE, "w") as file:
-        json.dump(cytoscape_data(hoyt_graph, attrs={"name": "Name"}), file, indent=2)
+
+def main():
+    hoyt_graph = make_cytoscape(HOYT_URL, HOYT_PATH, HOYT_CYTOSCAPE, label="hoyt")
 
 
 if __name__ == "__main__":
