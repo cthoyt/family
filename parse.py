@@ -8,14 +8,14 @@ import pandas as pd
 from networkx.readwrite.json_graph import cytoscape_data
 
 HERE = Path(__file__).parent.resolve()
-DATA = HERE / "data"
+
+HOYTS_DATA = HERE / "hoyts"
 HOYT_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQn5iJCSSQwCnxtkb65dG3jS0i27oBfkksOXLXGfqV4ERDB7EK0aPPL2NWXToYV5qpZthliNY6csbqv/pub?gid=580418978&single=true&output=tsv"
-HOYT_PATH = DATA / "hoyts.tsv"
+HOYT_PATH = HOYTS_DATA / "hoyts.tsv"
+HOYT_CYTOSCAPE = HOYTS_DATA / "cytoscape.json"
 
-CYTOSCAPE = os.path.join(HERE, "cytoscape.json")
 
-
-def get_df() -> pd.DataFrame:
+def get_hoyt_df() -> pd.DataFrame:
     urlretrieve(HOYT_URL, HOYT_PATH)
     df = pd.read_csv(
         HOYT_PATH,
@@ -48,22 +48,14 @@ def df_to_graph(df: pd.DataFrame) -> nx.DiGraph:
                 pass
         graph.add_node(idx, **d)
 
-    for idx, father, mother, spouse in df[["Father", "Mother", "Spouse"]].itertuples(
-        index=True
-    ):
-        idx = str(int(idx))
-        if pd.notna(father):
-            father = str(int(father))
-            if father in graph:
-                graph.add_edge(idx, father, type="father", id=f"{idx}_{father}")
-        if pd.notna(mother):
-            mother = str(int(mother))
-            if mother in graph:
-                graph.add_edge(idx, mother, type="mother", id=f"{idx}_{mother}")
-        if pd.notna(spouse):
-            spouse = str(int(spouse))
-            if spouse in graph:
-                graph.add_edge(idx, spouse, type="spouse", id=f"{idx}_{spouse}")
+    for key in "Father", "Mother", "Spouse":
+        for idx, relation in df[key].items():
+            if pd.isna(relation):
+                continue
+            idx = str(int(idx))
+            relation = str(int(relation))
+            if relation in graph:
+                graph.add_edge(idx, relation, type=key.lower(), id=f"{idx}_{relation}")
 
     # add levels from chuck (# 1)
     # levels = nx.single_source_shortest_path_length(graph, "1")
@@ -77,12 +69,12 @@ def df_to_graph(df: pd.DataFrame) -> nx.DiGraph:
 
 
 def main():
-    df = get_df()
-    print("There are", len(df.index), "Hoyts listed")
-    g = df_to_graph(df)
+    hoyt_df = get_hoyt_df()
+    print("There are", len(hoyt_df.index), "Hoyts listed")
+    hoyt_graph = df_to_graph(hoyt_df)
 
-    with open(CYTOSCAPE, "w") as file:
-        json.dump(cytoscape_data(g, attrs={"name": "Name"}), file, indent=2)
+    with open(HOYT_CYTOSCAPE, "w") as file:
+        json.dump(cytoscape_data(hoyt_graph, attrs={"name": "Name"}), file, indent=2)
 
 
 if __name__ == "__main__":
