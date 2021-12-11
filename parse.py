@@ -7,7 +7,8 @@ import pandas as pd
 from networkx.readwrite.json_graph import cytoscape_data
 
 HERE = os.path.abspath(os.path.dirname(__file__))
-PATH = os.path.join(HERE, 'tree.tsv')
+DATA = os.path.join(HERE, "data")
+PATH = os.path.join(DATA, 'hoyts.tsv')
 URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQn5iJCSSQwCnxtkb65dG3jS0i27oBfkksOXLXGfqV4ERDB7EK0aPPL2NWXToYV5qpZthliNY6csbqv/pub?gid=580418978&single=true&output=tsv'
 CYTOSCAPE = os.path.join(HERE, 'cytoscape.json')
 
