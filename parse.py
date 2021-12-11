@@ -1,27 +1,28 @@
 import json
 import os
+from pathlib import Path
 from urllib.request import urlretrieve
 
 import networkx as nx
 import pandas as pd
 from networkx.readwrite.json_graph import cytoscape_data
 
-HERE = os.path.abspath(os.path.dirname(__file__))
-DATA = os.path.join(HERE, "data")
-PATH = os.path.join(DATA, 'hoyts.tsv')
-URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQn5iJCSSQwCnxtkb65dG3jS0i27oBfkksOXLXGfqV4ERDB7EK0aPPL2NWXToYV5qpZthliNY6csbqv/pub?gid=580418978&single=true&output=tsv'
-CYTOSCAPE = os.path.join(HERE, 'cytoscape.json')
+HERE = Path(__file__).parent.resolve()
+DATA = HERE / "data"
+HOYT_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQn5iJCSSQwCnxtkb65dG3jS0i27oBfkksOXLXGfqV4ERDB7EK0aPPL2NWXToYV5qpZthliNY6csbqv/pub?gid=580418978&single=true&output=tsv"
+HOYT_PATH = DATA / "hoyts.tsv"
+
+CYTOSCAPE = os.path.join(HERE, "cytoscape.json")
 
 
 def get_df() -> pd.DataFrame:
-    urlretrieve(URL, PATH)
-
+    urlretrieve(HOYT_URL, HOYT_PATH)
     df = pd.read_csv(
-        PATH,
-        sep='\t',
+        HOYT_PATH,
+        sep="\t",
         index_col=0,
     )
-    df = df[df['Name'].notna()]
+    df = df[df["Name"].notna()]
     return df
 
 
@@ -34,33 +35,35 @@ def df_to_graph(df: pd.DataFrame) -> nx.DiGraph:
 
     for idx, row in df.iterrows():
         idx = str(idx)
-        siblings = row.pop('Siblings') if 'Siblings' in row else None
+        siblings = row.pop("Siblings") if "Siblings" in row else None
         d = {
             k: v
             for k, v in row.items()
-            if pd.notna(v) and k not in {'Father', 'Mother', 'Spouse', 'Siblings'}
+            if pd.notna(v) and k not in {"Father", "Mother", "Spouse", "Siblings"}
         }
         if pd.notna(siblings):
             try:
-                d['Siblings'] = int(siblings)
+                d["Siblings"] = int(siblings)
             except ValueError:
                 pass
         graph.add_node(idx, **d)
 
-    for idx, father, mother, spouse in df[['Father', 'Mother', 'Spouse']].itertuples(index=True):
+    for idx, father, mother, spouse in df[["Father", "Mother", "Spouse"]].itertuples(
+        index=True
+    ):
         idx = str(int(idx))
         if pd.notna(father):
             father = str(int(father))
             if father in graph:
-                graph.add_edge(idx, father, type='father', id=f'{idx}_{father}')
+                graph.add_edge(idx, father, type="father", id=f"{idx}_{father}")
         if pd.notna(mother):
             mother = str(int(mother))
             if mother in graph:
-                graph.add_edge(idx, mother, type='mother', id=f'{idx}_{mother}')
+                graph.add_edge(idx, mother, type="mother", id=f"{idx}_{mother}")
         if pd.notna(spouse):
             spouse = str(int(spouse))
             if spouse in graph:
-                graph.add_edge(idx, spouse, type='spouse', id=f'{idx}_{spouse}')
+                graph.add_edge(idx, spouse, type="spouse", id=f"{idx}_{spouse}")
 
     # add levels from chuck (# 1)
     # levels = nx.single_source_shortest_path_length(graph, "1")
@@ -75,12 +78,12 @@ def df_to_graph(df: pd.DataFrame) -> nx.DiGraph:
 
 def main():
     df = get_df()
-    print('There are', len(df.index), 'Hoyts listed')
+    print("There are", len(df.index), "Hoyts listed")
     g = df_to_graph(df)
 
-    with open(CYTOSCAPE, 'w') as file:
-        json.dump(cytoscape_data(g, attrs={'name': 'Name'}), file, indent=2)
+    with open(CYTOSCAPE, "w") as file:
+        json.dump(cytoscape_data(g, attrs={"name": "Name"}), file, indent=2)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
