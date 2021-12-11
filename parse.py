@@ -12,9 +12,8 @@ URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQn5iJCSSQwCnxtkb65dG3jS0
 CYTOSCAPE = os.path.join(HERE, 'cytoscape.json')
 
 
-def get_df(force: bool = False) -> pd.DataFrame:
-    if not os.path.exists(PATH) and not force:
-        urlretrieve(URL, PATH)
+def get_df() -> pd.DataFrame:
+    urlretrieve(URL, PATH)
 
     df = pd.read_csv(
         PATH,
@@ -34,14 +33,17 @@ def df_to_graph(df: pd.DataFrame) -> nx.DiGraph:
 
     for idx, row in df.iterrows():
         idx = str(idx)
-        siblings = row.pop('Siblings')
+        siblings = row.pop('Siblings') if 'Siblings' in row else None
         d = {
             k: v
             for k, v in row.items()
             if pd.notna(v) and k not in {'Father', 'Mother', 'Spouse', 'Siblings'}
         }
         if pd.notna(siblings):
-            d['Siblings'] = int(siblings)
+            try:
+                d['Siblings'] = int(siblings)
+            except ValueError:
+                pass
         graph.add_node(idx, **d)
 
     for idx, father, mother, spouse in df[['Father', 'Mother', 'Spouse']].itertuples(index=True):

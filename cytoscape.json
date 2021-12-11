@@ -13,8 +13,8 @@
           "Residences": "Haverill, Ma; Governor's Island, NH",
           "Burial Site": "Maplewood Parish Cemetery",
           "Education": "Manlius School, Boston University",
-          "Occupation": "tanner",
-          "Siblings": 0,
+          "Military Service": "WWII",
+          "Occupation": "tanner, banker",
           "id": "1",
           "value": "1",
           "name": "Charles Lindsay Hoyt"
@@ -24,10 +24,10 @@
         "data": {
           "Name": "Elizabeth Anne Tapley",
           "Birthday": "10/18/1932",
+          "Deathday": "2/21/2020",
           "Residences": "Haverill, Ma; Governor's Island, NH",
-          "Burial Site": "Linwood Cemetery",
+          "Burial Site": "Maplewood Parish Cemetery",
           "Education": "University of Colorado",
-          "Siblings": 1,
           "id": "2",
           "value": "2",
           "name": "Elizabeth Anne Tapley"
@@ -41,10 +41,9 @@
           "Wedding": "1923?",
           "Residences": "1005 Main St., Haverill, MA",
           "Burial Site": "Maplewood Parish Cemetery",
+          "Military Service": "WWI",
           "Occupation": "tanner",
-          "Notes": "drafted to WWI",
           "Link1": "https://familysearch.org/ark:/61903/1:1:KZN1-PZC",
-          "Siblings": 0,
           "id": "3",
           "value": "3",
           "name": "Aaron Hoyt"
@@ -86,7 +85,6 @@
           "Residences": "Pennsylvania",
           "Burial Site": "Linwood Cemetery",
           "Notes": "had a sibling who died young",
-          "Siblings": 1,
           "id": "6",
           "value": "6",
           "name": "Anne Carson Halliday"
@@ -97,6 +95,7 @@
           "Name": "Charles Noyes Hoyt",
           "Birthday": "2/24/1849",
           "Deathday": "8/10/1922",
+          "Wedding": "2/1/1893",
           "Residences": "1005 Main St., Haverill, MA",
           "Burial Site": "Maplewood Parish Cemetery",
           "Occupation": "real estate, wood lots, bricks",
@@ -107,15 +106,16 @@
       },
       {
         "data": {
-          "Name": "Idabel Whittaker King",
+          "Name": "Ida Bell Whittaker King",
           "Birthday": "10/27/1868",
           "Deathday": "6/14/1902",
           "Burial Site": "Maplewood Parish Cemetery",
+          "Occupation": "clerk",
           "Notes": "died of tuberculosis of kidney",
           "Link1": "https://familysearch.org/ark:/61903/1:1:NWXJ-D78",
           "id": "8",
           "value": "8",
-          "name": "Idabel Whittaker King"
+          "name": "Ida Bell Whittaker King"
         }
       },
       {
@@ -123,6 +123,7 @@
           "Name": "Robert Charles Lindsay",
           "Birthday": "10/13/1857",
           "Deathday": "2/9/1910",
+          "Wedding": "1878",
           "Residences": "Douglastown, Quebec",
           "Burial Site": "United Church Cemetery, Gaspe Basin",
           "Link1": "http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&db=gaspe&id=I15743",
@@ -134,11 +135,12 @@
       {
         "data": {
           "Name": "Elizabeth Annie Lowndes",
-          "Birthday": "1857",
+          "Birthday": "9/1/1857",
           "Deathday": "10/6/1941",
           "Residences": "Douglastown, Quebec",
           "Burial Site": "St. Paul's Cemetery, Gaspe Basin",
           "Link1": "http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&db=gaspe&id=I15744",
+          "Link2": "https://www.ancestry.com/search/?name=elizabeth+annie_lowndes&count=50&name_x=_psx",
           "id": "10",
           "value": "10",
           "name": "Elizabeth Annie Lowndes"
@@ -169,12 +171,13 @@
       {
         "data": {
           "Name": "William Halliday",
-          "Birthday": "1871(2)",
-          "Deathday": "before 1910",
+          "Birthday": "1/2/1861",
+          "Deathday": "11/28/1912",
           "Wedding": "11/29/1901",
-          "Birthplace": "Ireland",
+          "Birthplace": "Belfast, Down Co., Ireland",
           "Immigration": "1890 from Ireland",
           "Residences": "Pittsburgh, Allegheny, PA",
+          "Burial Site": "tuberculosis",
           "Occupation": "machinist (steel worker)",
           "Link1": "https://familysearch.org/ark:/61903/1:1:VFW5-C53",
           "id": "13",
@@ -186,7 +189,7 @@
         "data": {
           "Name": "Elizabeth Carson",
           "Birthday": "1881",
-          "Birthplace": "Pennsylvania",
+          "Birthplace": "Pittsburgh, Pennsylvania",
           "Residences": "Pittsburgh, Allegheny, PA",
           "Occupation": "cook/clerk for a cement company",
           "id": "14",
@@ -221,15 +224,17 @@
       },
       {
         "data": {
-          "Name": "Joseph S. King",
+          "Name": "Joseph Starr King",
           "Birthday": "12/15/1836",
           "Deathday": "12/15/1927",
+          "Wedding": "12/20/1859",
           "Birthplace": "Canada",
           "Residences": "Haverhill",
           "Burial Site": "Maplewood Parish Cemetery",
+          "Occupation": "shoe finisher",
           "id": "17",
           "value": "17",
-          "name": "Joseph S. King"
+          "name": "Joseph Starr King"
         }
       },
       {
@@ -249,6 +254,10 @@
       {
         "data": {
           "Name": "William Lindsay",
+          "Birthday": "8/29/1821",
+          "Deathday": "3/26/1876",
+          "Wedding": "11/13/1846",
+          "Birthplace": "Montreal",
           "Residences": "Gaspe",
           "Burial Site": "St. John's Cemetery",
           "id": "19",
@@ -259,6 +268,8 @@
       {
         "data": {
           "Name": "Jane Innis",
+          "Birthday": "1820",
+          "Deathday": "3/21/1874",
           "Residences": "Gaspe",
           "Burial Site": "St. John's Cemetery",
           "id": "20",
@@ -268,29 +279,36 @@
       },
       {
         "data": {
-          "Name": "James John Lowndes (probs)",
-          "Residences": "England",
+          "Name": "James John Lowndes Jr",
+          "Birthday": "1831",
+          "Deathday": "1905",
+          "Wedding": "1854",
+          "Birthplace": "England",
+          "Residences": "England, New Carlisle",
           "Link1": "https://familysearch.org/ark:/61903/1:1:NLYY-L8P",
           "Link2": "https://familysearch.org/ark:/61903/1:1:NF17-SYQ",
           "id": "21",
           "value": "21",
-          "name": "James John Lowndes (probs)"
+          "name": "James John Lowndes Jr"
         }
       },
       {
         "data": {
-          "Name": "Mariane Skitt (probs)",
+          "Name": "Eliza Matilda Scott",
+          "Birthday": "8/10/1832",
+          "Deathday": "1891",
           "Residences": "England",
           "Link1": "https://familysearch.org/ark:/61903/1:1:F1SH-82C",
           "id": "22",
           "value": "22",
-          "name": "Mariane Skitt (probs)"
+          "name": "Eliza Matilda Scott"
         }
       },
       {
         "data": {
           "Name": "George Tapley",
           "Birthday": "2/5/1820",
+          "Deathday": "8/25/1901",
           "Wedding": "7/31/1841",
           "id": "23",
           "value": "23",
@@ -300,7 +318,9 @@
       {
         "data": {
           "Name": "Hannah Elizabeth Wolcott",
+          "Birthday": "10/26/1820",
           "Deathday": "7/14/1895",
+          "Link1": "https://www.ancestry.com/family-tree/person/tree/26393890/person/27349273004/facts",
           "id": "24",
           "value": "24",
           "name": "Hannah Elizabeth Wolcott"
@@ -311,6 +331,7 @@
           "Name": "Manning Roberts",
           "Birthday": "8/6/1837",
           "Deathday": "7/6/1904",
+          "Wedding": "4/25/1861",
           "Residences": "Amherst, Ma",
           "Link1": "http://records.ancestry.com/manning_roberts_records.ashx?pid=135023032",
           "id": "25",
@@ -342,12 +363,12 @@
       },
       {
         "data": {
-          "Name": "Ann ",
+          "Name": "Ann Irwin",
           "Birthplace": "Ireland",
           "Residences": "Ireland/PA",
           "id": "28",
           "value": "28",
-          "name": "Ann "
+          "name": "Ann Irwin"
         }
       },
       {
@@ -376,7 +397,7 @@
         "data": {
           "Name": "Humphrey Hoyt",
           "Birthday": "9/10/1750",
-          "Deathday": "2/26/1812 (alt 23)",
+          "Deathday": "2/26/1823",
           "Wedding": "1/27/1791",
           "id": "31",
           "value": "31",
@@ -386,7 +407,10 @@
       {
         "data": {
           "Name": "Susanna Bradley",
+          "Birthday": "12/5/1768",
           "Deathday": "7/19/1833",
+          "Burial Site": "Church Street Cemetery",
+          "Link1": "https://www.findagrave.com/memorial/111825541",
           "id": "32",
           "value": "32",
           "name": "Susanna Bradley"
@@ -412,16 +436,27 @@
       },
       {
         "data": {
-          "Name": "King",
+          "Name": "Charles King Jr?",
+          "Birthplace": "Canada",
           "id": "35",
           "value": "35",
-          "name": "King"
+          "name": "Charles King Jr?"
+        }
+      },
+      {
+        "data": {
+          "Name": "Mary (Starr?)",
+          "Birthplace": "Canada",
+          "id": "36",
+          "value": "36",
+          "name": "Mary (Starr?)"
         }
       },
       {
         "data": {
           "Name": "John Whittaker",
-          "Birthday": "1804",
+          "Birthday": "2/27/1804",
+          "Deathday": "2/20/1884",
           "Occupation": "farmer",
           "id": "37",
           "value": "37",
@@ -430,28 +465,52 @@
       },
       {
         "data": {
-          "Name": "Mary G ",
+          "Name": "Mary Gage Eaton",
           "Birthday": "1818",
+          "Deathday": "10/12/1889",
           "Occupation": "keeps house",
           "id": "38",
           "value": "38",
-          "name": "Mary G "
+          "name": "Mary Gage Eaton"
         }
       },
       {
         "data": {
-          "Name": "Lindsay",
+          "Name": "Robert Lindsay",
+          "Birthday": "1784",
+          "Birthplace": "Ayrshire, Scotland",
           "id": "39",
           "value": "39",
-          "name": "Lindsay"
+          "name": "Robert Lindsay"
         }
       },
       {
         "data": {
-          "Name": "Lowndes",
+          "Name": "Agnes Dickie",
+          "Birthday": "1793",
+          "Birthplace": "Ayrshire, Scotland",
+          "id": "40",
+          "value": "40",
+          "name": "Agnes Dickie"
+        }
+      },
+      {
+        "data": {
+          "Name": "James John Lowndes",
+          "Birthday": "1801",
           "id": "43",
           "value": "43",
-          "name": "Lowndes"
+          "name": "James John Lowndes"
+        }
+      },
+      {
+        "data": {
+          "Name": "Marianne Skitt",
+          "Birthday": "1807",
+          "Residences": "Warrington, England",
+          "id": "44",
+          "value": "44",
+          "name": "Marianne Skitt"
         }
       },
       {
@@ -532,22 +591,6 @@
       },
       {
         "data": {
-          "Name": "Halliday",
-          "id": "55",
-          "value": "55",
-          "name": "Halliday"
-        }
-      },
-      {
-        "data": {
-          "Name": "Carson",
-          "id": "59",
-          "value": "59",
-          "name": "Carson"
-        }
-      },
-      {
-        "data": {
           "Name": "John Hoyt",
           "Birthday": "6/29/1724",
           "Deathday": "4/30/1812",
@@ -591,26 +634,46 @@
       },
       {
         "data": {
-          "Name": "King",
+          "Name": "Charles King Sr",
+          "Birthday": "1781",
+          "Deathday": "5/5/1891",
+          "Residences": "St Gervais, Canada",
+          "Military Service": "War of 1812 for England",
           "id": "71",
           "value": "71",
-          "name": "King"
+          "name": "Charles King Sr"
         }
       },
       {
         "data": {
-          "Name": "Lindsay",
-          "id": "79",
-          "value": "79",
-          "name": "Lindsay"
+          "Name": "Mary Fevereaux",
+          "Birthday": "circa 1791",
+          "Deathday": "circa 1871",
+          "Residences": "St Gervais, Canada",
+          "id": "72",
+          "value": "72",
+          "name": "Mary Fevereaux"
         }
       },
       {
         "data": {
-          "Name": "Lowndes",
-          "id": "87",
-          "value": "87",
-          "name": "Lowndes"
+          "Name": "Peter Whittaker",
+          "Birthday": "9/17/1764",
+          "Deathday": "11/22/1829",
+          "Wedding": "9/30/1799",
+          "id": "75",
+          "value": "75",
+          "name": "Peter Whittaker"
+        }
+      },
+      {
+        "data": {
+          "Name": "Sally Duston",
+          "Birthday": "9/22/1767",
+          "Deathday": "2/15/1855",
+          "id": "76",
+          "value": "76",
+          "name": "Sally Duston"
         }
       },
       {
@@ -717,22 +780,6 @@
       },
       {
         "data": {
-          "Name": "Halliday",
-          "id": "111",
-          "value": "111",
-          "name": "Halliday"
-        }
-      },
-      {
-        "data": {
-          "Name": "Carson",
-          "id": "119",
-          "value": "119",
-          "name": "Carson"
-        }
-      },
-      {
-        "data": {
           "Name": "John Hoyt",
           "id": "127",
           "value": "127",
@@ -804,6 +851,44 @@
           "id": "142",
           "value": "142",
           "name": "Sarah Chase"
+        }
+      },
+      {
+        "data": {
+          "Name": "John King",
+          "Residences": "Canada",
+          "id": "143",
+          "value": "143",
+          "name": "John King"
+        }
+      },
+      {
+        "data": {
+          "Name": "Mary Gagnon",
+          "Residences": "Canada",
+          "id": "144",
+          "value": "144",
+          "name": "Mary Gagnon"
+        }
+      },
+      {
+        "data": {
+          "Name": "Joseph Whittaker",
+          "Birthday": "3/23/1716",
+          "Deathday": "9/27/1774",
+          "Wedding": "10/6/1741",
+          "id": "151",
+          "value": "151",
+          "name": "Joseph Whittaker"
+        }
+      },
+      {
+        "data": {
+          "Name": "Hannah Guile",
+          "Deathday": "9/15/1791",
+          "id": "152",
+          "value": "152",
+          "name": "Hannah Guile"
         }
       },
       {
@@ -904,14 +989,6 @@
       },
       {
         "data": {
-          "Name": "Halliday",
-          "id": "223",
-          "value": "223",
-          "name": "Halliday"
-        }
-      },
-      {
-        "data": {
           "Name": "Thomas Hoyt",
           "id": "255",
           "value": "255",
@@ -962,6 +1039,23 @@
           "id": "284",
           "value": "284",
           "name": "Ruth Kelly"
+        }
+      },
+      {
+        "data": {
+          "Name": "William Whittaker",
+          "Birthday": "12/4/1685",
+          "id": "303",
+          "value": "303",
+          "name": "William Whittaker"
+        }
+      },
+      {
+        "data": {
+          "Name": "Methilable Harriman",
+          "id": "304",
+          "value": "304",
+          "name": "Methilable Harriman"
         }
       },
       {
@@ -1119,14 +1213,6 @@
       },
       {
         "data": {
-          "Name": "Halliday",
-          "id": "447",
-          "value": "447",
-          "name": "Halliday"
-        }
-      },
-      {
-        "data": {
           "Name": "Thomas Hoyt",
           "id": "511",
           "value": "511",
@@ -1178,6 +1264,24 @@
           "id": "569",
           "value": "569",
           "name": "Abigail Stevens"
+        }
+      },
+      {
+        "data": {
+          "Name": "William Whittaker",
+          "Birthday": "12/21/1658",
+          "Wedding": "1/15/1684",
+          "id": "607",
+          "value": "607",
+          "name": "William Whittaker"
+        }
+      },
+      {
+        "data": {
+          "Name": "Sarah Emerson",
+          "id": "608",
+          "value": "608",
+          "name": "Sarah Emerson"
         }
       },
       {
@@ -1287,14 +1391,6 @@
       },
       {
         "data": {
-          "Name": "Holton",
-          "id": "883",
-          "value": "883",
-          "name": "Holton"
-        }
-      },
-      {
-        "data": {
           "Name": "Stephen Belding",
           "Birthday": "12/28/1658",
           "Deathday": "10/6/1720",
@@ -1371,14 +1467,6 @@
       },
       {
         "data": {
-          "Name": "Halliday",
-          "id": "895",
-          "value": "895",
-          "name": "Halliday"
-        }
-      },
-      {
-        "data": {
           "Name": "John Hoyt",
           "Occupation": "end of Hoyt book",
           "id": "1023",
@@ -1435,6 +1523,25 @@
           "id": "1138",
           "value": "1138",
           "name": "Priscilla Chase"
+        }
+      },
+      {
+        "data": {
+          "Name": "Abraham Whittaker",
+          "Birthday": "1626",
+          "Wedding": "3/19/1655(6)",
+          "id": "1215",
+          "value": "1215",
+          "name": "Abraham Whittaker"
+        }
+      },
+      {
+        "data": {
+          "Name": "Elizabeth Simonds",
+          "Deathday": "11/1683",
+          "id": "1216",
+          "value": "1216",
+          "name": "Elizabeth Simonds"
         }
       },
       {
@@ -1571,14 +1678,6 @@
       },
       {
         "data": {
-          "Name": "Halliday",
-          "id": "1791",
-          "value": "1791",
-          "name": "Halliday"
-        }
-      },
-      {
-        "data": {
           "Name": "Henry Dow Sr.",
           "Birthday": "1577",
           "Deathday": "4/21/1613",
@@ -1618,6 +1717,16 @@
           "id": "2276",
           "value": "2276",
           "name": "Susanna Wolterton"
+        }
+      },
+      {
+        "data": {
+          "Name": "Abraham Whittaker",
+          "Birthday": "1590 England",
+          "Deathday": "1674 Haverhill",
+          "id": "2431",
+          "value": "2431",
+          "name": "Abraham Whittaker"
         }
       },
       {
@@ -2040,6 +2149,14 @@
       },
       {
         "data": {
+          "type": "mother",
+          "id": "17_36",
+          "source": "17",
+          "target": "36"
+        }
+      },
+      {
+        "data": {
           "type": "spouse",
           "id": "17_18",
           "source": "17",
@@ -2080,6 +2197,14 @@
       },
       {
         "data": {
+          "type": "mother",
+          "id": "19_40",
+          "source": "19",
+          "target": "40"
+        }
+      },
+      {
+        "data": {
           "type": "spouse",
           "id": "19_20",
           "source": "19",
@@ -2100,6 +2225,14 @@
           "id": "21_43",
           "source": "21",
           "target": "43"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "21_44",
+          "source": "21",
+          "target": "44"
         }
       },
       {
@@ -2216,14 +2349,6 @@
       },
       {
         "data": {
-          "type": "father",
-          "id": "27_55",
-          "source": "27",
-          "target": "55"
-        }
-      },
-      {
-        "data": {
           "type": "spouse",
           "id": "27_28",
           "source": "27",
@@ -2236,14 +2361,6 @@
           "id": "28_27",
           "source": "28",
           "target": "27"
-        }
-      },
-      {
-        "data": {
-          "type": "father",
-          "id": "29_59",
-          "source": "29",
-          "target": "59"
         }
       },
       {
@@ -2336,6 +2453,46 @@
       },
       {
         "data": {
+          "type": "mother",
+          "id": "35_72",
+          "source": "35",
+          "target": "72"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "35_36",
+          "source": "35",
+          "target": "36"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "36_35",
+          "source": "36",
+          "target": "35"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "37_75",
+          "source": "37",
+          "target": "75"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "37_76",
+          "source": "37",
+          "target": "76"
+        }
+      },
+      {
+        "data": {
           "type": "spouse",
           "id": "37_38",
           "source": "37",
@@ -2352,18 +2509,34 @@
       },
       {
         "data": {
-          "type": "father",
-          "id": "39_79",
+          "type": "spouse",
+          "id": "39_40",
           "source": "39",
-          "target": "79"
+          "target": "40"
         }
       },
       {
         "data": {
-          "type": "father",
-          "id": "43_87",
+          "type": "spouse",
+          "id": "40_39",
+          "source": "40",
+          "target": "39"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "43_44",
           "source": "43",
-          "target": "87"
+          "target": "44"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "44_43",
+          "source": "44",
+          "target": "43"
         }
       },
       {
@@ -2521,22 +2694,6 @@
       {
         "data": {
           "type": "father",
-          "id": "55_111",
-          "source": "55",
-          "target": "111"
-        }
-      },
-      {
-        "data": {
-          "type": "father",
-          "id": "59_119",
-          "source": "59",
-          "target": "119"
-        }
-      },
-      {
-        "data": {
-          "type": "father",
           "id": "63_127",
           "source": "63",
           "target": "127"
@@ -2628,6 +2785,70 @@
           "id": "70_69",
           "source": "70",
           "target": "69"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "71_143",
+          "source": "71",
+          "target": "143"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "71_144",
+          "source": "71",
+          "target": "144"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "71_72",
+          "source": "71",
+          "target": "72"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "72_71",
+          "source": "72",
+          "target": "71"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "75_151",
+          "source": "75",
+          "target": "151"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "75_152",
+          "source": "75",
+          "target": "152"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "75_76",
+          "source": "75",
+          "target": "76"
+        }
+      },
+      {
+        "data": {
+          "type": "spouse",
+          "id": "76_75",
+          "source": "76",
+          "target": "75"
         }
       },
       {
@@ -2793,14 +3014,6 @@
       {
         "data": {
           "type": "father",
-          "id": "111_223",
-          "source": "111",
-          "target": "223"
-        }
-      },
-      {
-        "data": {
-          "type": "father",
           "id": "127_255",
           "source": "127",
           "target": "255"
@@ -2844,6 +3057,22 @@
           "id": "141_284",
           "source": "141",
           "target": "284"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "151_303",
+          "source": "151",
+          "target": "303"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "151_304",
+          "source": "151",
+          "target": "304"
         }
       },
       {
@@ -3049,14 +3278,6 @@
       {
         "data": {
           "type": "father",
-          "id": "223_447",
-          "source": "223",
-          "target": "447"
-        }
-      },
-      {
-        "data": {
-          "type": "father",
           "id": "255_511",
           "source": "255",
           "target": "511"
@@ -3100,6 +3321,22 @@
           "id": "284_569",
           "source": "284",
           "target": "569"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "303_607",
+          "source": "303",
+          "target": "607"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "303_608",
+          "source": "303",
+          "target": "608"
         }
       },
       {
@@ -3233,14 +3470,6 @@
       {
         "data": {
           "type": "father",
-          "id": "441_883",
-          "source": "441",
-          "target": "883"
-        }
-      },
-      {
-        "data": {
-          "type": "father",
           "id": "443_887",
           "source": "443",
           "target": "887"
@@ -3329,14 +3558,6 @@
       {
         "data": {
           "type": "father",
-          "id": "447_895",
-          "source": "447",
-          "target": "895"
-        }
-      },
-      {
-        "data": {
-          "type": "father",
           "id": "511_1023",
           "source": "511",
           "target": "1023"
@@ -3380,6 +3601,22 @@
           "id": "568_1138",
           "source": "568",
           "target": "1138"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "607_1215",
+          "source": "607",
+          "target": "1215"
+        }
+      },
+      {
+        "data": {
+          "type": "mother",
+          "id": "607_1216",
+          "source": "607",
+          "target": "1216"
         }
       },
       {
@@ -3593,14 +3830,6 @@
       {
         "data": {
           "type": "father",
-          "id": "895_1791",
-          "source": "895",
-          "target": "1791"
-        }
-      },
-      {
-        "data": {
-          "type": "father",
           "id": "1119_2239",
           "source": "1119",
           "target": "2239"
@@ -3628,6 +3857,14 @@
           "id": "1137_2276",
           "source": "1137",
           "target": "2276"
+        }
+      },
+      {
+        "data": {
+          "type": "father",
+          "id": "1215_2431",
+          "source": "1215",
+          "target": "2431"
         }
       },
       {
