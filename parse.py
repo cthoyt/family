@@ -8,7 +8,7 @@ from networkx.readwrite.json_graph import cytoscape_data
 
 HERE = Path(__file__).parent.resolve()
 
-HOYTS_DATA = HERE / "hoyts"
+HOYTS_DATA = HERE / "hoyt"
 HOYT_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQn5iJCSSQwCnxtkb65dG3jS0i27oBfkksOXLXGfqV4ERDB7EK0aPPL2NWXToYV5qpZthliNY6csbqv/pub?gid=580418978&single=true&output=tsv"
 HOYT_PATH = HOYTS_DATA / "data.tsv"
 HOYT_CYTOSCAPE = HOYTS_DATA / "cytoscape.json"
