@@ -5038,17 +5038,17 @@
       {
         "data": {
           "type": "father",
-          "id": "28_58",
+          "id": "28_46",
           "source": "28",
-          "target": "58"
+          "target": "46"
         }
       },
       {
         "data": {
           "type": "mother",
-          "id": "28_60",
+          "id": "28_48",
           "source": "28",
-          "target": "60"
+          "target": "48"
         }
       },
       {
